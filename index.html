@@ -15,12 +15,15 @@
         </script>
     </head>
     <body>
-        <ul class="sidenav">
+        <ul class="sidenav" id="mysidenav">
             <img src="assets/avatar.jpg" class="avatar">
             <li><a class="active" href="index.html">Home</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="portifolio.html">Portifolio</a></li>
-            <li><a href="about.html">Sobre</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#portifolio">Portifolio</a></li>
+            <li><a href="#about">Sobre</a></li>
+            <li><a href="https://twitter.com/rychillie">Github</a></li>
+            <li><a href="https://twitter.com/rychillie">Twitter</a></li>
+            <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
         </ul>
         <div class="content">
             <div class="post">
@@ -52,5 +55,15 @@
                 </form>
             </div>
         </div>
+        <script>
+            function myFunction() {
+                var x = document.getElementById("mysidenav");
+                if (x.className === "sidenav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "sidenav";
+                }
+            }
+        </script>
     </body>
 </html>
