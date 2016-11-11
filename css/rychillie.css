@@ -36,7 +36,7 @@ ul.sidenav li a.active {
 }
 
 ul.sidenav li a:hover:not(.active) {
-    background-color: #b73e24;
+    background-color: #b73e24#b73e24;
     color: white;
 }
 
@@ -46,7 +46,17 @@ ul.sidenav li a:hover:not(.active) {
     padding: 1px 16px;
 }
 
+ul.sidenav li a:hover {background-color: #b73e24;}
+
+ul.sidenav li.icon {display: none;}
+
+.icon {display: none;}
+
 @media screen and (max-width: 1050px){
+    ul.sidenav li a:hover {background-color: #b73e24;}
+    
+    ul.sidenav li.icon {display: none;}
+    .icon {display: none;}
     ul.sidenav {
         max-width: 1050px;
         width:100%;
@@ -65,13 +75,38 @@ ul.sidenav li a:hover:not(.active) {
 }
 
 @media screen and (max-width: 400px){
+    ul.sidenav li:not(:first-child) {display: none;}
+    ul.sidenav li.icon {
+        float: right;
+        display: inline-block;
+    }
+    .avatar {display: none;}
+}
+
+@media screen and (max-width: 400px){
     .avatar {display: none;}
     ul.sidenav li a {
         max-width: 400px;
         text-align: center;
         float: none;
     }
+    
+    ul.sidenav.responsive {position: relative;}
+    ul.sidenav.responsive li.icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    ul.sidenav.responsive li {
+        float: none;
+        display: inline;
+    }
+    ul.sidenav.responsive li a {
+        display: block;
+        text-align: left;
+    }
 }
+
 .post {
     background-color: white;
     margin-top: 2%;
@@ -114,6 +149,7 @@ ul.sidenav li a:hover:not(.active) {
 #contact input[type="text"], #contact input[type="email"], #contact textarea, #contact button[type="submit"]{
     font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif;
 }
+
 #contact {
 	padding:25px;
 }
@@ -184,15 +220,19 @@ fieldset {
 	outline:0;
 	border:1px solid #999;
 }
+
 ::-webkit-input-placeholder {
  color:#888;
 }
+
 :-moz-placeholder {
  color:#888;
 }
+
 ::-moz-placeholder {
  color:#888;
 }
+
 :-ms-input-placeholder {
  color:#888;
 }
