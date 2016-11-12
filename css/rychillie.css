@@ -3,14 +3,16 @@ body {
     margin: 0;
     background: #f6f8f8;
 }
-
+h1{
+    color: #cf4523;
+}
 ul.sidenav {
     max-width: 300px;
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: #e16244;
+    background-color: #cf4523;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -36,7 +38,7 @@ ul.sidenav li a.active {
 }
 
 ul.sidenav li a:hover:not(.active) {
-    background-color: #b73e24#b73e24;
+    background-color: #a3361c;
     color: white;
 }
 
@@ -46,15 +48,21 @@ ul.sidenav li a:hover:not(.active) {
     padding: 1px 16px;
 }
 
-ul.sidenav li a:hover {background-color: #b73e24;}
+ul.sidenav li a:hover {background-color: #a3361c;}
 
 ul.sidenav li.icon {display: none;}
 
 .icon {display: none;}
 
 @media screen and (max-width: 1050px){
-    ul.sidenav li a:hover {background-color: #b73e24;}
+    ul.sidenav li a:hover {background-color: #a3361c;}
     
+    ul.sidenav li a:hover:not(.active) {
+        background-color: #a3361c;
+        color: white;
+    }
+    .previous-button {min-width: 100%}
+    .next-button {min-width: 100%}
     ul.sidenav li.icon {display: none;}
     .icon {display: none;}
     ul.sidenav {
@@ -75,11 +83,17 @@ ul.sidenav li.icon {display: none;}
 }
 
 @media screen and (max-width: 680px){
+    ul.sidenav li a:hover:not(.active) {
+        background-color: #a3361c;
+        color: white;
+    }
     ul.sidenav li:not(:first-child) {display: none;}
     ul.sidenav li.icon {
         float: right;
         display: inline-block;
     }
+    .previous-button {min-width: 100%}
+    .next-button {min-width: 100%}
     .avatar {display: none;}
 }
 
@@ -90,7 +104,8 @@ ul.sidenav li.icon {display: none;}
         text-align: center;
         float: none;
     }
-    
+    .previous-button {min-width: 100%}
+    .next-button {min-width: 100%}
     ul.sidenav.responsive {position: relative;}
     ul.sidenav.responsive li.icon {
         position: absolute;
@@ -103,7 +118,7 @@ ul.sidenav li.icon {display: none;}
     }
     ul.sidenav.responsive li a {
         display: block;
-        text-align: left;
+        text-align: center;
     }
 }
 
@@ -119,10 +134,7 @@ ul.sidenav li.icon {display: none;}
 }
 
 .text {
-    margin-top: 1%;
-    margin-bottom: 1%;
-    margin-left: 4%;
-    margin-right: 4%;
+    margin: 4%;
 }
 .sobre {
     background-color: white;
@@ -155,7 +167,7 @@ ul.sidenav li.icon {display: none;}
 }
 
 #contact h3 {
-	color: #e16244;
+	color: #cf4523;
 	display: block;
 	font-size: 30px;
 	font-weight: 400;
@@ -200,7 +212,7 @@ fieldset {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	background:#e16244;
+	background:#cf4523;
 	color:#FFF;
 	margin:0 0 5px;
 	padding:10px;
@@ -208,7 +220,7 @@ fieldset {
 }
 
 #contact button[type="submit"]:hover {
-	background:#b73e24;
+	background:#a3361c;
 	-webkit-transition:background 0.3s ease-in-out;
 	-moz-transition:background 0.3s ease-in-out;
 	transition:background-color 0.3s ease-in-out;
@@ -235,4 +247,34 @@ fieldset {
 
 :-ms-input-placeholder {
  color:#888;
+}
+
+.next-button {
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    border: none;
+    background: #cf4523;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+    float: right!important;
+}
+
+.previous-button {
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    border: none;
+    background: #cf4523;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+    float: left!important;
+}
+#text h2{
+    color: #cf4523;
+    text-align: center;
 }
