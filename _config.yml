@@ -7,7 +7,7 @@ description: A blog about technology and game development
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/Rychillie.jpg
 
 url: https://rychillie.github.io
