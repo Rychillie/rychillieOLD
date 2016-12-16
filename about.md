@@ -2,45 +2,36 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<div class="side-by-side">
+    <div class="toleft">
+        <p>Sou um jovem estudante interessado em tecnologia, games e códigos. Sempre fui de aprimorar meu conhecimento e buscar o que é de mais atual, não importando se é conhecido ou não, procurei sempre estar em meio a algo novo e diferente.</p>
+    </div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <div class="toright">
+        <img class="image" src="https://rychillie.github.io/assets/images/profile.jpg" alt="Alt Text">
+        <figcaption class="caption">Rychillie Umpierre de Oliveira</figcaption>
+    </div>
+</div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Meu maior desejo e fazer parte das coisas, é estar envolvido, poder deixar meu nome na história é meu objetivo, ser conhecido</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
 	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
+    <li>Bootstrap CSS Framework</li>
+	<li>Javascript - AJAX</li>
+	<li>MySQL - PostgreSQL</li>
+	<li>CodeIgniter PHP Framework</li>
 	<li>TDD e Continuous Integration</li>
+	<li>Unity3D - Game Maker(YOYOGames) - Construct 2</li>
+	<li>Adobe Photoshop - Adobe Illustrator</li>
+	<li>Adobe After Effects - Sony Vegas</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projetos</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://okgnow.com.br/">OkGNow</a></li>
+	<li><a href="https://github.com/Rychillie/IndieDevBrasil.github.io">IndieDev Brasil</a></li>
 </ul>
