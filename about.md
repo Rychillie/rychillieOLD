@@ -2,18 +2,11 @@
 title: About
 layout: page
 ---
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Sou um jovem estudante interessado em tecnologia, games e códigos. Sempre fui de aprimorar meu conhecimento e buscar o que é de mais atual, não importando se é conhecido ou não, procurei sempre estar em meio a algo novo e diferente.</p>
-    </div>
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-    <div class="toright">
-        <img class="image" src="https://rychillie.github.io/assets/images/profile.jpg" alt="Alt Text">
-        <figcaption class="caption">Rychillie Umpierre de Oliveira</figcaption>
-    </div>
-</div>
+<p>Sou um jovem estudante interessado em tecnologia, games e códigos. Sempre fui de aprimorar meu conhecimento e buscar o que é de mais atual, não importando se é conhecido ou não, procurei sempre estar em meio a algo novo e diferente.</p>
 
-<p>Meu maior desejo e fazer parte das coisas, é estar envolvido, poder deixar meu nome na história é meu objetivo, ser conhecido</p>
+<p>Meu maior desejo e fazer parte das coisas, é estar envolvido, poder deixar meu nome na história é meu objetivo, ser conhecido!</p>
 
 <h2>Skills</h2>
 
