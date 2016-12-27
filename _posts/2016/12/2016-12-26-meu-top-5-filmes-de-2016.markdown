@@ -11,7 +11,7 @@ tag:
 - opinião
 blog: true
 author: rychillie
-description: Apenas meu top 5...
+description: apenas meu top cinco...
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
