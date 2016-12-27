@@ -6,12 +6,11 @@ image: /assets/images/cinema.jpg
 headerImage: false
 tag:
 - filmes
-- ano
 - top
 - opinião
 blog: true
 author: rychillie
-description: Apenas meu top 5...
+description: O que espero que a Nintendo Faça certo...
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
@@ -24,9 +23,10 @@ description: Apenas meu top 5...
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/posters/x-men_apocalypse.jpg" alt="Alt Text">
+        <img class="image" src="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/05/tumblr_inline_o6nsw3vg1w1shsvef_1280.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -37,7 +37,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/posters/suicidesquad.jpg" alt="Alt Text">
+        <img class="image" src="http://br.web.img2.acsta.net/newsv7/16/01/19/19/27/398322.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -48,7 +48,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/posters/civilwar.jpg" alt="Alt Text">
+        <img class="image" src="http://ahoradofilme.com.br/wp-content/uploads/2016/03/CapitaoAmerica_Poster.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -59,7 +59,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/posters/deadpool.jpg" alt="Alt Text">
+        <img class="image" src="http://cdn.cinepop.com.br/2016/01/deadpool_13.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -70,7 +70,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/posters/doctorstrange.jpg" alt="Alt Text">
+        <img class="image" src="http://br.web.img3.acsta.net/pictures/16/07/24/13/55/028969.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
