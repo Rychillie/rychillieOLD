@@ -11,7 +11,7 @@ tag:
 - opinião
 blog: true
 author: rychillie
-description: apenas meu top 5...
+description: Apenas meu top 5...
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
@@ -24,11 +24,9 @@ description: apenas meu top 5...
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Trocar opiniões é importante e por isso venho trazer os meus filmes favoritos lançados neste ano!
-
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/05/tumblr_inline_o6nsw3vg1w1shsvef_1280.jpg" alt="Alt Text">
+        <img class="image" src="https://rychillie.github.io/assets/images/posters/x-men_apocalypse.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -37,4 +35,46 @@ Trocar opiniões é importante e por isso venho trazer os meus filmes favoritos 
     </div>
 </div>
 
-Espero que tenham gostado amanhã tem mais!
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://rychillie.github.io/assets/images/posters/suicidesquad.jpg" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p>4º Lugar: Esquadrão Suicida(4 de agosto de 2016)</p>
+        <p>Não podemos negar que este filme tem seus problemas, mas eu achei ele muito bacana, uma história boa, que conta o surgimento dos personagens e suas motivações, o único contra foi desenrolar da história, achei meio estranho pois só foi acontecer da metade pro fim… acho que contar a história dos personagens fez eu me perder um pouco, mas de resto está nota 10!</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://rychillie.github.io/assets/images/posters/civilwar.jpg" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p>3º Lugar: Capitão América 3: Guerra Civil(28 de abril de 2016)</p>
+        <p>Filme espetacular mas como qualquer outro com seus furos que não pude deixar de notar, como o Tony Stark causando toda merda e não levando a culpa, pois bem, a história deixou um bom gancho quero ver como ficará a sequência, se for como o anterior ficarei com certeza decepcionado, pois espero um contra ataque bom do Capitão para ter sua liberdade garantida!</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://rychillie.github.io/assets/images/posters/deadpool.jpg" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p>2º Lugar: Deadpool(11 de fevereiro de 2016)</p>
+        <p>Eu vou ser sincero eu não conhecia o Deadpool antes do filme, mas ouvia muito falar dele e conhecia um pouco da sua história, só tenho uma coisa a dizer PUT* QUE P*RIU esse foi legal, piadas muito caprichadas, efeitos sensacionais, mas a história eu achei muito enrolada… sla acho q podia ser mais direto!</p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://rychillie.github.io/assets/images/posters/doctorstrange.jpg" alt="Alt Text">
+    </div>
+
+    <div class="toright">
+        <p>1º Lugar: Doutor Estranho( 2 de novembro de 2016 )</p>
+        <p>Só digo uma coisa FOD*! Efeitos especiais magníficos, história muito boa e um gostinho de quero mais que “PUT* QUE P*RIU para que me deixar assim?!” este filme ficou na minha lista por vários motivos, piadas, história e efeitos especiais como já havia dito, uma junção que deu certo, um filme que pude dizer, valeu a pena!</p>
+    </div>
+</div>
