@@ -79,7 +79,3 @@ description: Apenas meu top 5...
         <p>Só digo uma coisa FOD*! Efeitos especiais magníficos, história muito boa e um gostinho de quero mais que “PUT* QUE P*RIU para que me deixar assim?!” este filme ficou na minha lista por vários motivos, piadas, história e efeitos especiais como já havia dito, uma junção que deu certo, um filme que pude dizer, valeu a pena!</p>
     </div>
 </div>
-
-
-
-
