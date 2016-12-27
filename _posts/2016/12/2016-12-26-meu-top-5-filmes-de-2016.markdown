@@ -11,7 +11,7 @@ tag:
 - opinião
 blog: true
 author: rychillie
-description: apenas meu top cinco...
+description: apenas meu top 5...
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
@@ -27,6 +27,7 @@ description: apenas meu top cinco...
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/05/tumblr_inline_o6nsw3vg1w1shsvef_1280.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
     <div class="toright">
@@ -38,6 +39,7 @@ description: apenas meu top cinco...
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="http://br.web.img2.acsta.net/newsv7/16/01/19/19/27/398322.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
     <div class="toright">
@@ -49,6 +51,7 @@ description: apenas meu top cinco...
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="http://ahoradofilme.com.br/wp-content/uploads/2016/03/CapitaoAmerica_Poster.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
     <div class="toright">
@@ -60,6 +63,7 @@ description: apenas meu top cinco...
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="http://cdn.cinepop.com.br/2016/01/deadpool_13.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
     <div class="toright">
@@ -71,6 +75,7 @@ description: apenas meu top cinco...
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="http://br.web.img3.acsta.net/pictures/16/07/24/13/55/028969.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
     <div class="toright">
