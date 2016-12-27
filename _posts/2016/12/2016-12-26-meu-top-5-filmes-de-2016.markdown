@@ -34,7 +34,7 @@ description: Apenas meu top 5...
 <p>Filme espetacular mas como qualquer outro com seus furos que não pude deixar de notar, como o Tony Stark causando toda merda e não levando a culpa, pois bem, a história deixou um bom gancho quero ver como ficará a sequência, se for como o anterior ficarei com certeza decepcionado, pois espero um contra ataque bom do Capitão para ter sua liberdade garantida!</p>
 
 <h2>2º Lugar: Deadpool - 11 de fevereiro de 2016</h2>
-<p>Eu vou ser sincero eu não conhecia o Deadpool antes do filme, mas ouvia muito falar dele e conhecia um pouco da sua história, só tenho uma coisa a dizer PUT* QUE P*RIU esse foi legal, piadas muito caprichadas, efeitos sensacionais, mas a história eu achei muito enrolada… sla acho q podia ser mais direto!</p>
+<p>Eu vou ser sincero eu não conhecia o Deadpool antes do filme, mas ouvia muito falar dele e conhecia um pouco da sua história, só tenho uma coisa a dizer PUTa QUE PaRIU esse foi legal, piadas muito caprichadas, efeitos sensacionais, mas a história eu achei muito enrolada… sla acho q podia ser mais direto!</p>
 
 <h2>1º Lugar: Doutor Estranho - 2 de novembro de 2016</h2>
-<p>Só digo uma coisa FOD*! Efeitos especiais magníficos, história muito boa e um gostinho de quero mais que “PUT* QUE P*RIU para que me deixar assim?!” este filme ficou na minha lista por vários motivos, piadas, história e efeitos especiais como já havia dito, uma junção que deu certo, um filme que pude dizer, valeu a pena!</p>
+<p>Só digo uma coisa FODa! Efeitos especiais magníficos, história muito boa e um gostinho de quero mais que PUTa QUE PaRIU para que me deixar assim?! este filme ficou na minha lista por vários motivos, piadas, história e efeitos especiais como já havia dito, uma junção que deu certo, um filme que pude dizer, valeu a pena!</p>
