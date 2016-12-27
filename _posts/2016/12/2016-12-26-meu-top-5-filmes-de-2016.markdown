@@ -1,7 +1,7 @@
 ---
 title: "Meu Top 5 Filmes de 2016"
 layout: post
-date: 2016-12-26 23:00
+date: 2016-12-26 22:00
 image: /assets/images/cinema.jpg
 headerImage: false
 tag:
@@ -26,7 +26,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://rychillie.github.io/assets/images/posters/x-men_apocalypse.jpg" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/posters/x-men_apocalypse.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -37,7 +37,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://rychillie.github.io/assets/images/posters/suicidesquad.jpg" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/posters/suicidesquad.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -48,7 +48,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://rychillie.github.io/assets/images/posters/civilwar.jpg" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/posters/civilwar.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -59,7 +59,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://rychillie.github.io/assets/images/posters/deadpool.jpg" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/posters/deadpool.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
@@ -70,7 +70,7 @@ description: Apenas meu top 5...
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://rychillie.github.io/assets/images/posters/doctorstrange.jpg" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/posters/doctorstrange.jpg" alt="Alt Text">
     </div>
 
     <div class="toright">
