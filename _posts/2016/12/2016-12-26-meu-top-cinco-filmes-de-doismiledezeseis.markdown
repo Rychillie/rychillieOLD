@@ -24,7 +24,6 @@ description: Apenas meu top 5...
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/05/tumblr_inline_o6nsw3vg1w1shsvef_1280.jpg" alt="Alt Text">
