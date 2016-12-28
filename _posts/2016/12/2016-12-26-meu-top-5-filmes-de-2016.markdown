@@ -10,7 +10,7 @@ tag:
 - opinião
 blog: true
 author: rychillie
-description: O que espero que a Nintendo Faça certo...
+description: 5 filmes que adorei assistir este ano...
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
