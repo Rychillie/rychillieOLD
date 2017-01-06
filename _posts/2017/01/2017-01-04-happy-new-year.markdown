@@ -33,6 +33,6 @@ O blog continuara com sendo hospedado no Github pois a partir de agora começara
 
 Gerar dinheiro com o blog não é meu foco principal, pois não quero "Estuprar" os olhos dos leitores com anúncios, por isso colocarei apenas um banner de anúncios pequeno no inicio de cada post, bem sutil para que não atrapalhe a visualização dos usuários.
 
-Além disso estarei disponibilizando a possibilidade de me enviarem doações, que fica a critério de vocês, caso gostem de um conteúdo e queiram mais, um apoio é sempre bem vindo e estará acessível na pagina Sobre do Website com pagamento via Pagseguro simplismente um botãozinho lilas que falarei mais dele a frente.
+Além disso estarei disponibilizando a possibilidade de me enviarem doações, que fica a critério de vocês, caso gostem de um conteúdo e queiram mais, um apoio é sempre bem vindo e estará acessível na pagina Sobre do Website com pagamento via Pagseguro simplismente um botãozinho lilas, seguindo a mesma ideia criarei um Padrim que é uma forma de financiamento coletivo, tudo isso falarei mais a frente contando detalhes e planos.
 
 Procurarei trazer o melhor conteúdo com ótima qualidade neste ano! Tenham um ótimo ano and let's code!
