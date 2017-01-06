@@ -39,7 +39,8 @@ layout: page
 	<li><a href="http://okgnow.com.br/">OkGNow</a></li>
 	<li><a href="https://github.com/Rychillie/IndieDevBrasil.github.io">IndieDev Brasil</a></li>
 </ul>
-<div style=margin: auto;width: 50%;border: 3px solid green;padding: 10px;>
+
+
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
 <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
@@ -49,4 +50,3 @@ layout: page
 <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-roxo-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
 </form>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-</div>
