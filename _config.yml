@@ -82,7 +82,7 @@ related: true
 blog-nav-links: true
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
 animation: true
