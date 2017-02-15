@@ -6,6 +6,7 @@ image: /assets/images/tutos/construct2/construct_2.jpg
 headerImage: false
 tag:
 - Construct2
+- scirra
 - tutorial
 - jogo
 - simples
