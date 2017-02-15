@@ -25,9 +25,11 @@ description: Bora aprender a fazer jogos!
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+iframe width="560" height="310" src="https://youtu.be/isX2qv-gUYY" frameborder="0" allowfullscreen></iframe>
+
 O Contrusct 2 sem dúvida é uma ótima plataforma com ótimas possibilidades para quem não conhece programação ou não tem muito conhecimento na área e gostaria de fazer um jogo. E com isto em mente venho trazer este tutorial de Desenvolvimento de Games no Construct 2, no qual vou lhes ensinar a desenvolver um jogo em poucos passos no qual você poderá fazer inclusive na versão gratuita.
 
-<img class="image" src="/assets/images/tutos/construct2/construct_2.jpg" alt="Escolha de Template de Construct 2">
+<img class="image" src="/assets/images/tutos/construct2/criandoumprojetosimplesnoc2.jpg" alt="Escolha de Template de Construct 2">
 
 Para desenvolver este projeto vamos criar um “Projeto vazio(ou New empty project)” e logo teremos uma tela em branco, clicando duas vezes neste Layout ou Cena aparecera um campo de Criação de Objeto, nele vamos escolher a opção “Sprite”, e vamos escolher algum lugar para colocá-lo em nossa Cena. Com isso feito aparecera um campo de edição de sprite, no qual podemos trabalhar nossas sprites de todo tipo como, por exemplo, nosso personagem que será criado aqui. Mas antes vamos criar um Objeto Wall que será um objeto sólido e nele teremos colisão.
 
