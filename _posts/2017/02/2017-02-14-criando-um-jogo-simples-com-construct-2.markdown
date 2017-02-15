@@ -25,8 +25,6 @@ description: Bora aprender a fazer jogos!
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<iframe width="560" height="310" src="" frameborder="0" allowfullscreen></iframe>
-
 O Contrusct 2 sem dúvida é uma ótima plataforma com ótimas possibilidades para quem não conhece programação ou não tem muito conhecimento na área e gostaria de fazer um jogo. E com isto em mente venho trazer este tutorial de Desenvolvimento de Games no Construct 2, no qual vou lhes ensinar a desenvolver um jogo em poucos passos no qual você poderá fazer inclusive na versão gratuita.
 
 <img class="image" src="/assets/images/tutos/construct2/criandoumprojetosimplesnoc2.jpg" alt="Escolha de Template de Construct 2">
