@@ -25,7 +25,7 @@ description: Bora aprender a fazer jogos!
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<iframe width="560" height="310" src="https://youtu.be/isX2qv-gUYY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="" frameborder="0" allowfullscreen></iframe>
 
 O Contrusct 2 sem dúvida é uma ótima plataforma com ótimas possibilidades para quem não conhece programação ou não tem muito conhecimento na área e gostaria de fazer um jogo. E com isto em mente venho trazer este tutorial de Desenvolvimento de Games no Construct 2, no qual vou lhes ensinar a desenvolver um jogo em poucos passos no qual você poderá fazer inclusive na versão gratuita.
 
@@ -49,4 +49,4 @@ Agora, caso você pressione para o personagem voltar para direita o olhar dele n
 
 Caso queira fazer um teste você pode criar um outro objeto como de outra cor, posicioná-lo no final do seu level, chamá-lo de Porta, nele você pode atribuir a função “Em colisão” que pode levar a outro Room, mas não vou detalhar isso hoje pois é assunto para outro Tutorial.
 
-Espero que tenham gostado, então compartilhem com os amigos, vai que alguém se interesse em desenvolvimento de games e precise de um empurrãozinho para começar quem sabe isso não o ajude a criar grandes jogos.
+Espero que tenham gostado, então compartilhem com os amigos, vai que alguém se interesse em desenvolvimento de games e precise de um empurrãozinho para começar quem sabe isso não o ajude a criar grandes jogos. Você pode assistir a este tutorial em video <a href="https://youtu.be/isX2qv-gUYY">clicando aqui.</a>
