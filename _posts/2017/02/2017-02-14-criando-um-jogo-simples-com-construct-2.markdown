@@ -1,7 +1,7 @@
 ---
 title: "Criando um jogo simples no Construct 2"
 layout: post
-date: 2017-01-14 23:00
+date: 2017-02-14 23:00
 image: /assets/images/tutos/construct2/construct_2.jpg
 headerImage: false
 tag:
