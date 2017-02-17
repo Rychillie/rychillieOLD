@@ -1,6 +1,6 @@
 # main text of home
 name: Rychillie
-bio: A little Geek
+bio: 👌🔝
 
 # twitter summary info
 description: A blog about technology and game development
@@ -32,7 +32,7 @@ disqus: rychillie
 # facebook: rychillie
 twitter: rychillie
 # google: mygoogle
-# instagram: myinstagram
+instagram: rychillie
 pinterest: rychillie
 # linkedin: mylinkedin
 youtube: rychillie
@@ -41,7 +41,7 @@ github: rychillie
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: @rychillie
 # vimeo: myvimeo
 email: rychillie@hotmail.com
 
@@ -70,7 +70,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: false
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
