@@ -41,7 +41,7 @@ github: rychillie
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: rychillie
+# medium: rychillie
 # vimeo: myvimeo
 email: rychillie@hotmail.com
 
@@ -59,7 +59,7 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-paginate: 5
+paginate: 20
 paginate_path: "blog/page:num/"
 
 # if you don't need projects, comment the *projects* configs below
