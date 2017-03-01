@@ -60,7 +60,7 @@ width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 paginate: 20
-paginate_path: "blog/page:num/"
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
