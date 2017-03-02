@@ -99,6 +99,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-redirect-to
 
 jekyll-mentions:
     base_url: https://rychillie.github.io/
