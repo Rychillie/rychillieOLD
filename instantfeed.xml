@@ -29,7 +29,7 @@ layout: null
         <content:encoded>
             <![CDATA[
                 <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
+                <html lang="pt-br" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
                 <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
