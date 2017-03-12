@@ -102,6 +102,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-redirect-to
   - jekyll-last-modified-at
+  - amp-jekyll
 
 jekyll-mentions:
     base_url: https://rychillie.github.io/
