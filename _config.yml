@@ -101,6 +101,7 @@ gems:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-redirect-to
+  - jekyll-last-modified-at
 
 jekyll-mentions:
     base_url: https://rychillie.github.io/
