@@ -29,7 +29,7 @@ analytics-google: 'UA-45575876-4'
 disqus: rychillie
 
 # if you don't have any of social below, comment the line
-# facebook: rychillie
+facebook: rychillie
 twitter: rychillie
 # google: mygoogle
 instagram: rychillie
@@ -102,7 +102,6 @@ gems:
   - jekyll-redirect-from
   - jekyll-redirect-to
   - jekyll-last-modified-at
-  - amp-jekyll
 
 jekyll-mentions:
     base_url: https://rychillie.github.io/
