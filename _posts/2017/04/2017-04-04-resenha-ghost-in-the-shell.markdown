@@ -1,5 +1,5 @@
 ---
-title: "Resenha O Vigilante do Amanhã vugo Ghost in the Shell"
+title: "Resenha O Vigilante do Amanhã vulgo Ghost in the Shell"
 layout: post
 date: 2017-04-04 22:30
 image: /assets/images/ghost-in-the-shell.jpg
@@ -29,7 +29,7 @@ description: um futuro que eu gostaria de viver
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Sempre fiquei com um pé atrás quando o assunto era adaptações de animes para o cinema, um exemplo claro disso é o filme Dragonball Evolution, no qual eu estava hypado para assisti-lo e acabei me decepcionando ao assisti-lo. Ao ver os reviews desse filme fiquei impressionado, disse para mim mesmo que iria assisti-lo, afinal ainda não conhecia o Anime nem cheguei a ler o Mangá, então fui mesmo para conhecer a série.
+Sempre fiquei com um pé atrás quando o assunto era adaptações de animes para o cinema, um exemplo claro disso é o filme Dragonball Evolution, no qual eu estava hypado para assisti-lo e acabei me decepcionando. Ao ver os reviews desse filme fiquei impressionado, disse para mim mesmo que iria assisti-lo, afinal ainda não conhecia o Anime nem cheguei a ler o Mangá, então fui mesmo para conhecer a série.
 
 Já de antemão venho dizer que o filme é magnífico, posso ser meio suspeito para falar, pois o filme se passa em um futuro Cyberpunk e eu adoro a cultura futurista Cyberpunk. Resumindo um pouco, a história do filme é muito envolvente, pois você se apega aos personagens, quando algo lhes acontece de mal ficamos mal, pois você vê que eles tem um propósito, com um humor bem sutil faz você se sentir parte do grupo de alguma forma.
 
