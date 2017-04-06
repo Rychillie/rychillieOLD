@@ -10,7 +10,7 @@ description: A blog about technology and game development
 external-image: false
 picture: assets/images/Rychillie.jpg
 
-url: http://rychillie.github.io
+url: http://rychillie.net
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -104,4 +104,4 @@ gems:
   - jekyll-last-modified-at
 
 jekyll-mentions:
-    base_url: https://rychillie.github.io/
+    base_url: https://rychillie.net/
