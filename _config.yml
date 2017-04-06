@@ -104,4 +104,4 @@ gems:
   - jekyll-last-modified-at
 
 jekyll-mentions:
-    base_url: https://rychillie.net/
+    base_url: https://rychillie.net
