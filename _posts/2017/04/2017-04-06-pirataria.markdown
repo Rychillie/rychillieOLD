@@ -2,7 +2,7 @@
 title: "Pirataria"
 layout: post
 date: 2017-04-06 22:30
-image: /assets/images/pirataria.jpg
+image: /assets/images/pirataria.jpeg
 headerImage: false
 tag:
 - pirataria
