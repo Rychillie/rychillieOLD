@@ -12,7 +12,7 @@ tag:
 - eletronicos
 blog: true
 author: rychillie
-description: uma reflexão sobre minha opinião quanto a pirataria
+description: uma reflexão sobre minha opinião sobre a pirataria
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
