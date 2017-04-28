@@ -1,18 +1,17 @@
 ---
-title: Meu Top 5 Filmes de 2016
-date: 2016-12-26 23:00:00 Z
-tags:
+title: "Meu Top 5 Filmes de 2016"
+layout: post
+date: 2016-12-26 23:00
+image: /assets/images/cinema.jpg
+headerImage: false
+tag:
 - filmes
 - top
 - opinião
-layout: post
-image: "/assets/images/cinema.jpg"
-headerImage: false
 blog: true
 author: rychillie
 description: 5 filmes que adorei assistir este ano...
 ---
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

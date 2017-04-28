@@ -1,7 +1,10 @@
 ---
-title: Resenha O Vigilante do Amanhã vulgo Ghost in the Shell
-date: 2017-04-04 22:30:00 Z
-tags:
+title: "Resenha O Vigilante do Amanhã vulgo Ghost in the Shell"
+layout: post
+date: 2017-04-04 22:30
+image: /assets/images/ghost-in-the-shell.jpg
+headerImage: false
+tag:
 - resenha
 - filme
 - vigilante
@@ -11,14 +14,10 @@ tags:
 - in
 - the
 - shell
-layout: post
-image: "/assets/images/ghost-in-the-shell.jpg"
-headerImage: false
 blog: true
 author: rychillie
 description: um futuro que eu gostaria de viver
 ---
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

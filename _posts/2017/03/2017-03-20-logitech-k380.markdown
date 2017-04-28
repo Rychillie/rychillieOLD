@@ -1,20 +1,19 @@
 ---
-title: Review Logitech k380
-date: 2017-03-20 14:30:00 Z
-tags:
+title: "Review Logitech k380"
+layout: post
+date: 2017-03-20 14:30
+image: /assets/images/k380-multi-device-bluetooth-keyboard-01.jpg
+headerImage: false
+tag:
 - review
 - teclado
 - bluetooth
 - logitech
 - k380
-layout: post
-image: "/assets/images/k380-multi-device-bluetooth-keyboard-01.jpg"
-headerImage: false
 blog: true
 author: rychillie
 description: o melhor teclado para quem busca produtividade
 ---
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

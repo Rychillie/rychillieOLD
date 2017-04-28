@@ -1,20 +1,19 @@
 ---
-title: Olá 2017
-date: 2017-01-04 20:00:00 Z
-tags:
+title: "Olá 2017"
+layout: post
+date: 2017-01-04 20:00
+image: /assets/images/happy_new_year.jpg
+headerImage: false
+tag:
 - ola
 - novo
 - ano
 - site
 - rychillie
-layout: post
-image: "/assets/images/happy_new_year.jpg"
-headerImage: false
 blog: true
 author: rychillie
 description: sobrevivi...
 ---
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

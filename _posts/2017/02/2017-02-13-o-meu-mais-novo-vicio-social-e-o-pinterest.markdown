@@ -1,18 +1,17 @@
 ---
-title: O meu mais novo vicio social é o Pinterest
-date: 2017-02-13 22:00:00 Z
-tags:
+title: "O meu mais novo vicio social é o Pinterest"
+layout: post
+date: 2017-02-13 22:00
+image: /assets/images/pinterest.jpg
+headerImage: false
+tag:
 - rede
 - social
 - pinterest
-layout: post
-image: "/assets/images/pinterest.jpg"
-headerImage: false
 blog: true
 author: rychillie
 description: após escrever isto fui direto para o Pinterest...
 ---
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"
