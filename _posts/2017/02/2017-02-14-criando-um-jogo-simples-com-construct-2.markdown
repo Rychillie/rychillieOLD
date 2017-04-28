@@ -1,19 +1,20 @@
 ---
-title: "Criando um jogo simples no Construct 2"
-layout: post
-date: 2017-02-14 23:00
-image: /assets/images/tutos/construct2/construct_2.jpg
-headerImage: false
-tag:
+title: Criando um jogo simples no Construct 2
+date: 2017-02-14 23:00:00 Z
+tags:
 - Construct2
 - scirra
 - tutorial
 - jogo
 - simples
+layout: post
+image: "/assets/images/tutos/construct2/construct_2.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: Bora aprender a fazer jogos!
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

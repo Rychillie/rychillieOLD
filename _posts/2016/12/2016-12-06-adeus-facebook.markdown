@@ -1,17 +1,18 @@
 ---
-title: "Adeus Facebook"
-layout: post
-date: 2016-12-06 21:00
-image: /assets/images/facebook.jpg
-headerImage: false
-tag:
+title: Adeus Facebook
+date: 2016-12-06 21:00:00 Z
+tags:
 - facebook
 - blog
 - opinião
+layout: post
+image: "/assets/images/facebook.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: Não estou feliz no facebook então quitei!
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

@@ -1,17 +1,18 @@
 ---
-title: "Por que Rychillie?"
-layout: post
-date: 2017-01-17 20:00
-image: /assets/images/rychillie.jpg
-headerImage: false
-tag:
+title: Por que Rychillie?
+date: 2017-01-17 20:00:00 Z
+tags:
 - por
 - que
 - rychillie
+layout: post
+image: "/assets/images/rychillie.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: de onde saiu meu nome?
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

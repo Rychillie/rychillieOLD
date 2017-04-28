@@ -1,19 +1,20 @@
 ---
-title: "Pirataria"
-layout: post
-date: 2017-04-06 22:30
-image: /assets/images/pirataria.jpeg
-headerImage: false
-tag:
+title: Pirataria
+date: 2017-04-06 22:30:00 Z
+tags:
 - pirataria
 - jogos
 - filmes
 - musica
 - eletronicos
+layout: post
+image: "/assets/images/pirataria.jpeg"
+headerImage: false
 blog: true
 author: rychillie
 description: uma reflexão sobre a pirataria seguindo minha opinião
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

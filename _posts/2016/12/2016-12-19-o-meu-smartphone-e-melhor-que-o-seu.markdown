@@ -1,10 +1,7 @@
 ---
-title: "O Meu Smartphone É Melhor Que O Seu"
-layout: post
-date: 2016-12-19 14:00
-image: /assets/images/androidvsios.jpg
-headerImage: false
-tag:
+title: O Meu Smartphone É Melhor Que O Seu
+date: 2016-12-19 14:00:00 Z
+tags:
 - smartphone
 - android
 - ios
@@ -13,10 +10,14 @@ tag:
 - xiaomi
 - iphone
 - lenovo
+layout: post
+image: "/assets/images/androidvsios.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: para que ta chato...
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

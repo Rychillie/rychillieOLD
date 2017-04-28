@@ -1,18 +1,19 @@
 ---
-title: "Meu Hype do Nintendo Switch"
-layout: post
-date: 2016-12-07 22:00
-image: /assets/images/nintendo-switch.jpg
-headerImage: false
-tag:
+title: Meu Hype do Nintendo Switch
+date: 2016-12-07 22:00:00 Z
+tags:
 - nintendo
 - switch
 - hype
 - opinião
+layout: post
+image: "/assets/images/nintendo-switch.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: O que espero que a Nintendo Faça certo...
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

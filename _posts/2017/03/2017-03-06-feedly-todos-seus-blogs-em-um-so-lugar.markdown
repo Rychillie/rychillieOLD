@@ -1,19 +1,20 @@
 ---
-title: "Feedly: Todos seus Blogs em um só lugar"
-layout: post
-date: 2017-03-06 21:30
-image: /assets/images/feedly.png
-headerImage: false
-tag:
+title: 'Feedly: Todos seus Blogs em um só lugar'
+date: 2017-03-06 21:30:00 Z
+tags:
 - Feedly
 - aplicativo
 - noticias
 - fake
 - news
+layout: post
+image: "/assets/images/feedly.png"
+headerImage: false
 blog: true
 author: rychillie
 description: as vezes um simples app pode nos ajudar muito
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

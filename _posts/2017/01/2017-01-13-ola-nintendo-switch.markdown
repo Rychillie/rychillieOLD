@@ -1,18 +1,19 @@
 ---
-title: "Olá Nintendo Switch"
-layout: post
-date: 2017-01-13 22:00
-image: /assets/images/nintendo_switch_multiplayer.jpg
-headerImage: false
-tag:
+title: Olá Nintendo Switch
+date: 2017-01-13 22:00:00 Z
+tags:
 - Apresentacao
 - Nintendo
 - Switch
 - sobre
+layout: post
+image: "/assets/images/nintendo_switch_multiplayer.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: Obrigado Nintendo sua linda por mais está belezura!
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

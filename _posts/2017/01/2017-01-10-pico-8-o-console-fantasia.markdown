@@ -1,18 +1,19 @@
 ---
-title: "Pico-8 o Console Fantasia"
-layout: post
-date: 2017-01-10 16:00
-image: /assets/images/pico8.png
-headerImage: false
-tag:
+title: Pico-8 o Console Fantasia
+date: 2017-01-10 16:00:00 Z
+tags:
 - pico
 - oito
 - console
 - fantasia
+layout: post
+image: "/assets/images/pico8.png"
+headerImage: false
 blog: true
 author: rychillie
 description: Ta aí meu mais novo vicio!
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"

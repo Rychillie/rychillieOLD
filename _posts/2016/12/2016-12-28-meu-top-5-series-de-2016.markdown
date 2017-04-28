@@ -1,17 +1,18 @@
 ---
-title: "Meu Top 5 Séries de 2016"
-layout: post
-date: 2016-12-28 23:00
-image: /assets/images/netflix.jpg
-headerImage: false
-tag:
+title: Meu Top 5 Séries de 2016
+date: 2016-12-28 23:00:00 Z
+tags:
 - series
 - top
 - opinião
+layout: post
+image: "/assets/images/netflix.jpg"
+headerImage: false
 blog: true
 author: rychillie
 description: 5 series que fizeram parte de mim este ano...
 ---
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Final_texto_okgnow -->
 <ins class="adsbygoogle"
