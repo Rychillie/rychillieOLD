@@ -2,7 +2,7 @@
 title: "Pocket o App mais útil para quem não tem tempo"
 layout: post
 date: 2017-05-02 18:00
-image: /assets/images/pocket-logo.jpeg
+image: /assets/images/pocket-logo.png
 headerImage: false
 tag:
 - android
