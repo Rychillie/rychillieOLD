@@ -3,20 +3,23 @@ name: Rychillie
 bio: 👌🔝
 
 # twitter summary info
-description: A blog about technology and game development
+description: is only my website
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/Rychillie.jpg
 
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: false
+resume-external: false
+resume-url: https://google.com/?q=my+resume
+
 url: http://rychillie.net
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
-
-markdown: kramdown
-highlighter: rouge
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-45575876-4'
@@ -25,30 +28,33 @@ analytics-google: 'UA-45575876-4'
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in your posts, set to false
-disqus: rychillie
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: rychillie # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: rychillie
 twitter: rychillie
 # google: mygoogle
-instagram: rychillie
+instagram: myinstagram
 pinterest: rychillie
 # linkedin: mylinkedin
 youtube: rychillie
 # spotify: myspotify
 github: rychillie
+# lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: rychillie
+#medium: medium
 # vimeo: myvimeo
 email: rychillie@hotmail.com
 
 authors:
-    rychillie:
+    johndoe:
         name: Rychillie
-        bio: A little Geek
+        bio: O Cara
         external-image: false
         picture: assets/images/Rychillie.jpg
         twitter: rychillie
@@ -59,8 +65,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
- paginate: 10
- paginate_path: "blog/:num/"
+paginate: 10
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
@@ -78,18 +84,14 @@ show-tags: false
 # related posts inside a post?
 related: true
 
-# show next & prev links in blog post?
-blog-nav-links: true
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: false
 
 # do you want some animations?
 animation: true
-
-sass:
-    sass_dir: _sass
-    style: :compressed
 
 gems:
   - jemoji
@@ -104,4 +106,4 @@ gems:
   - jekyll-last-modified-at
 
 jekyll-mentions:
-    base_url: https://rychillie.net
+    base_url: https://github.com
