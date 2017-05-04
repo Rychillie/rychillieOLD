@@ -59,8 +59,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 20
-# paginate_path: "blog/:num/"
+ paginate: 10
+ paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
@@ -70,10 +70,10 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
 related: true
