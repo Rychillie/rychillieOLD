@@ -10,7 +10,7 @@ title: Blog
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
-				{% if post.hidden != false %}
+				{% if post.hidden != true %}
 					{% include blog-post.html %}
 				{% endif %}
 			{% endif %}
