@@ -7,6 +7,7 @@ title: Blog
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
+    {% endif %}
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
@@ -17,6 +18,7 @@ title: Blog
 		{% endfor %}
 
 		{% include pagination.html%}
+    {% endif %}
 	{% else %}
 		{% for post in site.posts %}
 			{% if post.category == 'blog' %}
