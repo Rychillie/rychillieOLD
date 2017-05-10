@@ -94,16 +94,20 @@ show-author: false
 animation: true
 
 gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-redirect-to
-  - jekyll-last-modified-at
+- github-pages
+- jekyll
+- rake
+- rouge
+- html-proofer
+- jemoji
+- jekyll-mentions
+- jekyll-seo-tag
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-last-modified-at
 
 jekyll-mentions:
     base_url: https://github.com
