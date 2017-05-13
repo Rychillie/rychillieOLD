@@ -4,26 +4,26 @@
 layout: page
 title: Blog
 ---
- <section class="list">
- 	{% if site.posts.size == 0 %}
- 		<p class="text-center">Nothing published yet!</p>
- 	{% elsif site.paginate %}
- 		{% for post in paginator.posts %}
- 			{% if post.category == 'blog' %}
- 				{% if post.hidden != true %}
- 					{% include blog-post.html %}
- 				{% endif %}
- 			{% endif %}
- 		{% endfor %}
-        
-        {% include pagination.html%}
-     {% elsif %}
-        {% for post in site.posts %}
-            {% if post.category == 'blog' %}
-                {% if post.hidden != true %}
-                    {% include blog-post.html %}
-                {% endif %}
-            {% endif %}
-  		{% endfor %}
-  	{% endif %}
+<section class="list">
+	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.paginate %}
+		{% for post in paginator.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+
+		{% include pagination.html%}
+	{% else %}
+		{% for post in site.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
 </section>
