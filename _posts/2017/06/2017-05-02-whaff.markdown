@@ -28,7 +28,7 @@ description: Um aplicativo para ganhar dinheiro no smamrtphone
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p>Eu tenho certeza que você já pensou em ganhar dinheiro com através do seu smartphone. No video a seguir trago o Aplicativo <a href="http://whaff.com/">Whaff</a> disponível para <a href="https://goo.gl/8uoGC2">Android</a> e IOS<a href="https://goo.gl/fUxKrp">IOS</a>, que da para você a possibilidade de ganhar dinheiro testando aplicativos e jogos.</p>
+<p>Eu tenho certeza que você já pensou em ganhar dinheiro com através do seu smartphone. No video a seguir trago o Aplicativo <a href="http://whaff.com/">Whaff</a> disponível para <a href="https://goo.gl/8uoGC2">Android</a> e <a href="https://goo.gl/fUxKrp">IOS</a>, que da para você a possibilidade de ganhar dinheiro testando aplicativos e jogos.</p>
 
 <iframe width="560" height="310" src="https://www.youtube.com/embed/yvLBT3jzO9I" frameborder="0" allowfullscreen></iframe>
 
