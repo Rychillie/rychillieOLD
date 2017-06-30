@@ -1,5 +1,5 @@
 ---
-title: "Personalizando o Android - A Minha personalização"
+title: "Personalizando o Android - A Minha Personalização"
 layout: post
 date: 2017-06-30 18:00
 image: /assets/images/googleplay.jpg
