@@ -11,6 +11,7 @@ tag:
 - aplicativos
 - customizacao
 blog: true
+comments: true
 author: rychillie
 description: Que tal customizar seu dispositivo Android
 ---
