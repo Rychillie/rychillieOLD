@@ -44,5 +44,6 @@ layout: page
     {% include author.html %}
 {% endif %}
 
-{% include disqus.html %}
-<script id="dsq-count-scr" src="//rychillie.disqus.com/count.js" async></script>
+{% if site.disqus.categories contains page.category %}
+    {% include disqus.html %}
+{% endif %}
