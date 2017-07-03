@@ -14,6 +14,7 @@ tag:
 - iphone
 - lenovo
 blog: true
+comments: true
 author: rychillie
 description: para que ta chato...
 ---

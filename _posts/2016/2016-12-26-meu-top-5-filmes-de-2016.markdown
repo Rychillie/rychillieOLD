@@ -9,6 +9,7 @@ tag:
 - top
 - opinião
 blog: true
+comments: true
 author: rychillie
 description: 5 filmes que adorei assistir este ano...
 ---

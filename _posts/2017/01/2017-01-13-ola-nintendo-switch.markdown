@@ -10,6 +10,7 @@ tag:
 - Switch
 - sobre
 blog: true
+comments: true
 author: rychillie
 description: Obrigado Nintendo sua linda por mais está belezura!
 ---

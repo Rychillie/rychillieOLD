@@ -9,6 +9,7 @@ tag:
 - social
 - pinterest
 blog: true
+comments: true
 author: rychillie
 description: após escrever isto fui direto para o Pinterest...
 ---

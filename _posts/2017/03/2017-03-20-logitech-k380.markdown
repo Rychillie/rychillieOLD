@@ -11,6 +11,7 @@ tag:
 - logitech
 - k380
 blog: true
+comments: true
 author: rychillie
 description: o melhor teclado para quem busca produtividade
 ---

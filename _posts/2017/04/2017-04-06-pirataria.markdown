@@ -11,6 +11,7 @@ tag:
 - musica
 - eletronicos
 blog: true
+comments: true
 author: rychillie
 description: uma reflexão sobre a pirataria seguindo minha opinião
 ---

@@ -11,6 +11,7 @@ tag:
 - jogo
 - simples
 blog: true
+comments: true
 author: rychillie
 description: Bora aprender a fazer jogos!
 ---

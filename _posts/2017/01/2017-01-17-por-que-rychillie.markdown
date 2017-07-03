@@ -9,6 +9,7 @@ tag:
 - que
 - rychillie
 blog: true
+comments: true
 author: rychillie
 description: de onde saiu meu nome?
 ---

@@ -10,6 +10,7 @@ tag:
 - aplicativos
 - manualmente
 blog: true
+comments: true
 author: rychillie
 description: Que tal explorar as funcionalidades do seu Android?
 ---

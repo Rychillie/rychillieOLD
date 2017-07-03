@@ -10,6 +10,7 @@ tag:
 - console
 - fantasia
 blog: true
+comments: true
 author: rychillie
 description: Ta aí meu mais novo vicio!
 ---

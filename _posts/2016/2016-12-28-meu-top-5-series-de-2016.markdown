@@ -9,6 +9,7 @@ tag:
 - top
 - opinião
 blog: true
+comments: true
 author: rychillie
 description: 5 series que fizeram parte de mim este ano...
 ---

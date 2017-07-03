@@ -11,6 +11,7 @@ tag:
 - site
 - rychillie
 blog: true
+comments: true
 author: rychillie
 description: sobrevivi...
 ---

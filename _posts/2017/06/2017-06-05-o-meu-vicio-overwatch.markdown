@@ -11,6 +11,7 @@ tag:
 - fps
 - blizzard
 blog: true
+comments: true
 author: rychillie
 description: que jogo foda
 ---

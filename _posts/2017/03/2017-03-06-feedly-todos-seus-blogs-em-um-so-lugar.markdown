@@ -11,6 +11,7 @@ tag:
 - fake
 - news
 blog: true
+comments: true
 author: rychillie
 description: as vezes um simples app pode nos ajudar muito
 ---

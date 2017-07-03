@@ -10,6 +10,7 @@ tag:
 - hype
 - opinião
 blog: true
+comments: true
 author: rychillie
 description: O que espero que a Nintendo Faça certo...
 ---

@@ -15,6 +15,7 @@ tag:
 - the
 - shell
 blog: true
+comments: true
 author: rychillie
 description: um futuro que eu gostaria de viver
 ---

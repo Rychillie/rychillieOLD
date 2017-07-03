@@ -10,6 +10,7 @@ tag:
 - dica
 - aplicativos
 blog: true
+comments: true
 author: rychillie
 description: Um aplicativo essencial para o seu dia-a-dia
 ---
