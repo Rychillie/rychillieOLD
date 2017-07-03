@@ -20,7 +20,7 @@ author: rychillie
 description: um futuro que eu gostaria de viver
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Final_texto_okgnow -->
+<!-- Anuncio Blog Rychillie -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7837358846130941"

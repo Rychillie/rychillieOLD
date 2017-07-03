@@ -15,7 +15,7 @@ author: rychillie
 description: Um aplicativo essencial para o seu dia-a-dia
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Final_texto_okgnow -->
+<!-- Anuncio Blog Rychillie -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7837358846130941"

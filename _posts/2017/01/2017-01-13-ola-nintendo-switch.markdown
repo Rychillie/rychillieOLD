@@ -15,7 +15,7 @@ author: rychillie
 description: Obrigado Nintendo sua linda por mais está belezura!
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Final_texto_okgnow -->
+<!-- Anuncio Blog Rychillie -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7837358846130941"
