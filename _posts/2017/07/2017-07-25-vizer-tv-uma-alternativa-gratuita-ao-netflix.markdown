@@ -1,5 +1,5 @@
 ---
-title: "Vizer.tv uma alternative gratuita ao Netflix"
+title: "Vizer.tv uma alternativa gratuita ao Netflix"
 layout: post
 date: 2017-07-25 20:00
 image: /assets/images/vizertv.jpg
