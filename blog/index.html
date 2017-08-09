@@ -9,9 +9,7 @@ title: Blog
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% include blog-post.html %}
-			{% endif %}
+            {% include blog-post.html %}
 		{% endfor %}
 
 		{% include pagination.html%}
