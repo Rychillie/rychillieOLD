@@ -3,7 +3,7 @@ title: "Jogando no Chuwi Hi10 Pro"
 layout: post
 date: 2017-08-29 18:00
 image: /assets/images/hi10prorychi.jpg
-headerImage: true
+headerImage: false
 tag:
 - hi10pro
 - hi10
