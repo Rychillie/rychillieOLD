@@ -2,19 +2,26 @@
 title: "Jogando no Chuwi Hi10 Pro"
 layout: post
 date: 2017-08-29 18:00
-image: /assets/images/chuwihi10pro.jpg
+image: /assets/images/hi10prorychi.jpg
 headerImage: false
 tag:
-- chuwi
+- hi10pro
+- hi10
+- pro
 - tablet
 - pc
-- android
-- windows
-- test
-- review
-- jogos
-- gameplay
+- tabletpc
+- hibrido
+- notebook
+- portatil
+- gearbest
+- taxa
+- importacao
+- resenha
+- reviewa
+- teste
 blog: true
+comments: true
 author: rychillie
 description: jogar ou não jogar eis a questão
 ---
