@@ -49,4 +49,4 @@ description: Nada como uma ajuda de um amigo
 ### [Chuwi Hi10 Plus](https://goo.gl/nefmh3)
 <p>Nao e muito diferente do Chuwi Hi10 Pro, a diferença fica para sua tela que é um pouco maior que e sua bateria e processadores que são um pouco melhores por causa de sua tela maior.</p>
 ### [Xiaomi Mi Pad 3](https://goo.gl/FzXUDQ)
-<p></p>
+<p>O mais caro da lista eu não podia deixar de colocar pois este é um tablet que eu tenho interesse em comprar, com 4GB de Memoria RAM e 64GB de Armazenamento não expansivel o Xiaomi Mi Pad 3 é o melhor desta lista, que se destaca principalmente pelo seu sistema operacional, a MIUI, que recebe periodicamente atualizações.</p>
