@@ -39,7 +39,7 @@ description: obrigado por apoiarem o canal
 ### [Mini Kit de Ferramentas](https://goo.gl/z7yWdp)
 <p>Muito util para mim no dia-a-dia este kit de ferramentas do tamanho de uma carteira, foi usado para concertar smartphones e meu oculos e por ter um tamanho bem reduzido, me facilitou bastante na hora de colocar na mochila.</p>
 ### [Case de Viagem](https://goo.gl/vZhng6)
-<p>Quem e maluco por organizacao certamente vai amar isso, uma case para organizacao de cabos e objetos pequenos que fica otimo para carregar cabos para na sua mochila</p>
+<p>Quem é maluco por organização certamente vai amar isso, uma case para organizacao de cabos e objetos pequenos que fica otimo para carregar cabos para na sua mochila</p>
 ### [Adaptador OTG](https://goo.gl/2ERu2M)
 <p>A melhor compra que pude fazer nesse ano, um adaptador, que me permite conectar meu Pen Drive no celular, copiar e enviar arquivos tanto do celular quanto para o Pen Drive, muito util e pratico(obs: estou esperando mais dele).</p>
 
