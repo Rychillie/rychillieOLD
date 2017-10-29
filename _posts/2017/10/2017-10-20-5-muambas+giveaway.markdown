@@ -1,5 +1,5 @@
 ---
-title: "5 Muambas + Giveawey"
+title: "5 Muambas + Giveaway"
 layout: post
 date: 2017-10-20 22:00
 image: /assets/images/hi10prorychi.jpg
@@ -10,7 +10,7 @@ tag:
 - sorteio
 - gearbest
 - muambas
-- giveawey
+- giveaway
 - rychillie
 blog: true
 comments: false
