@@ -45,4 +45,4 @@ description: obrigado por apoiarem o canal
 
 
 ## Como Participar do Sorteio:
-<p>Junto com isso, estou criando um sorteio no qual voce comenta o produto que deseja ganhar e concorrera a quele produto. Sera um produto por video e o resultado sera revelado em [Meu Instagram](instagram.com/rychillie/) atraves de uma live.
+<p>Junto com isso, estou criando um sorteio no qual voce comenta o produto que deseja ganhar e concorrera a quele produto. Sera um produto por video e o resultado sera revelado em [Meu Instagram](instagram.com/rychillie/) atraves de uma live.</p>
