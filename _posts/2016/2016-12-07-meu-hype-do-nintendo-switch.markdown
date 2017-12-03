@@ -11,6 +11,7 @@ tag:
 - opinião
 blog: true
 comments: true
+category: blog
 author: rychillie
 description: O que espero que a Nintendo Faça certo...
 ---
