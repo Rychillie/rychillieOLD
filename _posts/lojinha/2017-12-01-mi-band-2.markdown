@@ -11,5 +11,5 @@ hidden: false
 description: "A melhor smartband já feita."
 category: lojinha
 author: Rychillie
-externalLink: true
+externalLink: false
 ---
