@@ -15,17 +15,25 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+            {% if page.title != "Projetos" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
+                    <a class="link" href="{{ site.url }}/projetos">Projetos</a>
+                </li>
+            {% endif %}
+        {% endif %}
+        
+        {% if site.about == true %}
+            {% if page.title != "Lojinha" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/lojinha">Lojinha</a>
                 </li>
             {% endif %}
         {% endif %}
 
         {% if site.about == true %}
-            {% if page.title != "About" %}
+            {% if page.title != "Sobre" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <a class="link" href="{{ site.url }}/sobre">Sobre</a>
                 </li>
             {% endif %}
         {% endif %}
