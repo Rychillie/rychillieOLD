@@ -10,6 +10,7 @@ tag:
 - opinião
 blog: true
 comments: true
+category: blog
 author: rychillie
 description: Não estou feliz no facebook então quitei!
 ---
