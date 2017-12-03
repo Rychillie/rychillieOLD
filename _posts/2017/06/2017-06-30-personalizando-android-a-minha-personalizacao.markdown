@@ -13,6 +13,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: Que tal customizar seu dispositivo Android
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

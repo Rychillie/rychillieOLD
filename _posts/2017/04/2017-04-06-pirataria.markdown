@@ -13,6 +13,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: uma reflexão sobre a pirataria seguindo minha opinião
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

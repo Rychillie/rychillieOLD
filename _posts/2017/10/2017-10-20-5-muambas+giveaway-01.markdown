@@ -15,6 +15,7 @@ tag:
 blog: true
 comments: false
 author: rychillie
+category: blog
 description: obrigado por apoiarem o canal
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

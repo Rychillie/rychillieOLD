@@ -23,6 +23,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: jogar ou não jogar eis a questão
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

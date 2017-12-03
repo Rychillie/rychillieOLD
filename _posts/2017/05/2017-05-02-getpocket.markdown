@@ -12,6 +12,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: Um aplicativo essencial para o seu dia-a-dia
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -11,6 +11,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: de onde saiu meu nome?
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

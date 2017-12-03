@@ -12,6 +12,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: Ta aí meu mais novo vicio!
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

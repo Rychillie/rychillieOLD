@@ -23,6 +23,7 @@ tag:
 blog: true
 comments: true
 author: rychillie
+category: blog
 description: Nada como uma ajuda de um amigo
 ---
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
