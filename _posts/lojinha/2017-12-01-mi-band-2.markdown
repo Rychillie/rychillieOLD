@@ -7,6 +7,7 @@ tag: mi band
 image: https://http2.mlstatic.com/smartband-mi-band-2-lacrada-na-caixa-D_NQ_NP_987885-MLB26446162341_112017-O.webp
 headerImage: false
 lojinha: true
+blog: false
 hidden: false
 description: "A melhor smartband já feita."
 category: lojinha
