@@ -1,0 +1,15 @@
+---
+title: "Smartband Mi Band 2 Lacrada Na Caixa"
+layout: post
+date: 2017-12-01 13:00
+redirect_to: https://produto.mercadolivre.com.br/MLB-942546988-smartband-mi-band-2-lacrada-na-caixa-_JM
+tag: mi band
+image: https://http2.mlstatic.com/smartband-mi-band-2-lacrada-na-caixa-D_NQ_NP_987885-MLB26446162341_112017-O.webp
+headerImage: true
+lojinha: true
+hidden: true # don't count this post in blog pagination
+description: "A melhor smartband já feita."
+category: lojinha
+author: rychillie
+externalLink: true
+---
