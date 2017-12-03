@@ -15,6 +15,7 @@ tag:
 - lenovo
 blog: true
 comments: true
+category: blog
 author: rychillie
 description: para que ta chato...
 ---
