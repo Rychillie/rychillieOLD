@@ -6,9 +6,9 @@ redirect_to: https://produto.mercadolivre.com.br/MLB-942546988-smartband-mi-band
 tag: mi band
 image: https://http2.mlstatic.com/smartband-mi-band-2-lacrada-na-caixa-D_NQ_NP_987885-MLB26446162341_112017-O.webp
 headerImage: false
-lojinha: true
+lojinha: false
 blog: false
-hidden: true
+hidden: false
 description: "A melhor smartband já feita."
 category: lojinha
 author: Rychillie

@@ -6,7 +6,7 @@ redirect_to: https://produto.mercadolivre.com.br/MLB-947799931-headphone-marshal
 tag: marshall major
 image: https://produto.mercadolivre.com.br/MLB-947799931-headphone-marshall-major-i-novo-_JM
 headerImage: false
-lojinha: true
+lojinha: false
 blog: false
 hidden: false
 description: "Musica realmente profissional."
