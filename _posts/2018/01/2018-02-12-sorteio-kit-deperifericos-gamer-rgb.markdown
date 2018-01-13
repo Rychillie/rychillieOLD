@@ -33,7 +33,7 @@ description: uma forma de agradeçer a vocês por tudo!
 <li>Só podem participar residentes do Brasil;</li>
 <li>Não adianta criar contas falsas(o sistema bloqueia);</li>
 </ul>
-
+<p>Eu ficarei encarregado de realizar o envio dos produtos via correio e manterei contato com os premiados.</p>
 
 <a class="e-widget no-button" href="https://gleam.io/PIsz7/sorteio-perifricos-rgb" rel="nofollow">Sorteio Periféricos RGB</a>
 <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
