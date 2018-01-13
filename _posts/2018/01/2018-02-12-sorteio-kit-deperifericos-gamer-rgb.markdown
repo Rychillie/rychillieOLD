@@ -29,11 +29,12 @@ description: uma forma de agradeçer a vocês por tudo!
 
 <p>Aqui está, a minha forma de retribuir o carinho e o apoio de todos vocês nos ultimos meses que fizeram do meu canal algo que eu não planejava que pudesse ser, não é grande coisa, mas para quem está acompanhando de perto consegue perceber o quanto cresceu e se tornou o que é hoje! Com isso venho trazer este sorteio de Alguns periféricos RGB que podem ser de agrado para todos!</p>
 
-<ul>Regras:
+<ul><b>Regras:</b>
 <li>Só podem participar residentes do Brasil;</li>
 <li>Não adianta criar contas falsas(o sistema bloqueia);</li>
 </ul>
-<p>Eu ficarei encarregado de realizar o envio dos produtos via correio e manterei contato com os premiados.</p>
+
+<p>O premiado terá 48hrs para confirmar seu premio, caso contrario o premio sera passado para o seguinte. Após confirmado ficarei encarregado de realizar o envio dos premios via correio e manterei contato com os premiados.</p>
 
 <a class="e-widget no-button" href="https://gleam.io/PIsz7/sorteio-perifricos-rgb" rel="nofollow">Sorteio Periféricos RGB</a>
 <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
