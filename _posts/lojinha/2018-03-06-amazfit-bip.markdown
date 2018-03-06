@@ -6,7 +6,7 @@ redirect_to: https://produto.mercadolivre.com.br/MLB-985681282-smartwatch-xiaomi
 tag: amazfit bip
 image: https://http2.mlstatic.com/smartwatch-xiaomi-amazfti-bip-D_NQ_NP_925158-MLB26931988495_022018-O.webp
 headerImage: false
-lojinha: false
+lojinha: true
 blog: false
 hidden: false
 description: "O melhor Smartwatch custo-beneficio"

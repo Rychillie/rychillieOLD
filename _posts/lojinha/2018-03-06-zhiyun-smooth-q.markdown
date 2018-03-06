@@ -6,7 +6,7 @@ redirect_to: https://produto.mercadolivre.com.br/MLB-986818696-zhiyun-smooth-q-3
 tag: amazfit bip
 image: https://http2.mlstatic.com/zhiyun-smooth-q-3-eixos-estabilizador-gimbal-para-smartphone-D_NQ_NP_790316-MLB26943002453_032018-F.webp
 headerImage: false
-lojinha: false
+lojinha: true
 blog: false
 hidden: false
 description: "Deixe seus videos de celular com cara de profissionais"
