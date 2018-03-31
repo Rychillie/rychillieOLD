@@ -1,7 +1,9 @@
-{
-    "name": "Rychillie",
-    "short_name": "Rychillie",
-    "icons": [
+{  
+   "background_color":"#ffffff",
+   "description":"Um pouco do meu mundo.",
+   "display":"standalone",
+   "gcm_sender_id":"103953800507",
+   "icons":[
         {
             "src": "assets/images/favicon/favicon-16x16.png",
             "sizes": "16x16",
@@ -28,9 +30,9 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/index.html",
-    "gcm_sender_id": "103953800507",
-    "display": "standalone",
-    "background_color": "#fff",
-    "theme_color": "#4b0082"
+   "name":"Rychillie",
+   "orientation":"portrait",
+   "short_name":"Rychillie",
+   "start_url":"/",
+   "theme_color":"#4b0082"
 }
