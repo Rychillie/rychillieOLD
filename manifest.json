@@ -1,7 +1,8 @@
 {  
-   "background_color":"#ffffff",
+   "background_color":"#4b0082",
    "description":"Um pouco do meu mundo.",
-   "display":"minimal-ui",
+   "display":"standalone",
+   "lang": "pt-br",
    "gcm_sender_id":"103953800507",
    "icons":[
         {
@@ -33,6 +34,6 @@
    "name":"Rychillie",
    "orientation":"portrait",
    "short_name":"Rychillie",
-   "start_url":"http://rychillie.net",
+   "start_url":"/",
    "theme_color":"#4b0082"
 }
