@@ -1,7 +1,7 @@
 {  
    "background_color":"#ffffff",
    "description":"Um pouco do meu mundo.",
-   "display":"standalone",
+   "display":"minimal-ui",
    "gcm_sender_id":"103953800507",
    "icons":[
         {
