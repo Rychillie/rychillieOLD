@@ -27,7 +27,6 @@ layout: page
 	<li>Javascript - AJAX</li>
 	<li>MySQL - PostgreSQL</li>
 	<li>CodeIgniter PHP Framework</li>
-	<li>TDD e Continuous Integration</li>
 	<li>Unity3D - Game Maker(YOYOGames) - Construct 2</li>
 	<li>Adobe Photoshop - Adobe Illustrator</li>
 	<li>Adobe After Effects - Sony Vegas</li>
