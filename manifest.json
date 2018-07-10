@@ -31,7 +31,7 @@
             "type": "image/png"
         }
         {
-            "src": "assets/images/favicon/512x512.png",
+            "src": "assets/images/favicon/favicon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
