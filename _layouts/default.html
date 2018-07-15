@@ -63,6 +63,13 @@ layout: compress
     {% include icons.html %}
 
     {% include analytics-google.html %}
-
+    
+    <script>
+        // register ServiceWorker, remember to use absolute path!
+        if (navigator.serviceWorker) {
+            navigator.serviceWorker.register('/{rychillie.github.io}/sw.js', {scope: '/{rychillie.github.io}/'})
+        }
+        // --- Application code here ---
+    </script>
 </body>
 </html>
