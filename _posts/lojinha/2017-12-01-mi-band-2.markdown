@@ -6,7 +6,7 @@ redirect_to: https://produto.mercadolivre.com.br/MLB-1023073653-xiaomi-mi-band-2
 tag: mi band
 image: https://http2.mlstatic.com/smartband-mi-band-2-lacrada-na-caixa-D_NQ_NP_987885-MLB26446162341_112017-O.webp
 headerImage: false
-lojinha: true
+lojinha: false
 blog: false
 hidden: false
 description: "A melhor smartband já feita."
