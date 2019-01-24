@@ -15,17 +15,6 @@ author: rychillie
 category: blog
 description: Obrigado Nintendo sua linda por mais está belezura!
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 <img class="image" src="http://media.nintendo.com/nintendo/cocoon/switch-static-pages/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/family-fun/multiplayer.jpg" alt="Nintendo Switch Multiplayer">
 
 Durante a madrugada desta quinta-feira(12) para sexta-feira(13/01) a Nintendo fez sua apresentação do seu mais novo console o Nintendo Switch, um console hibrido muito peculiar com funções muito que podem dar uma virada nesta novela que esta sendo os lançamentos da Nintendo. Até comentaria especificações do console ou o que ele faz, mais o que a internet mais tem neste momento são artigos falando disso, diferenciando um pouco e nadando contra a correnteza eu vou dar uma visão do que penso que será o Nintendo Switch e o que mais gostei nele.

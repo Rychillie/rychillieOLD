@@ -16,17 +16,6 @@ author: rychillie
 category: blog
 description: sobrevivi...
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Mais um ano se passou e um novo chegou, sempre criamos esperança para um ano prospero e produtivo, e para mim não será diferente, criar muitos planos e idéias para desenvolver este ano, desde artigos até games.
 
 Sobre o Blog terei um foco gigantesco nele, publicando ao menos uma vez por semana, desde artigos até tutoriais, alem de disponibilizar temas para download(spoiler) e serem utilizados em sites e blogs, muitos reviews programados e vou mostrar o processo de desenvolvimento do meu site incluindo tema que já está quase pronto para todos poderem ver que não é dificil e que vale a pena ter o seu.
