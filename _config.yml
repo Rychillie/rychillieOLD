@@ -31,7 +31,6 @@ email: contato@rychillie.net
 paginate: 10
 paginate_path: "blog/page:num/"
 
-
 # if you don't need projects, comment the *projects* configs below
 projetos: false
 lojinha: false
