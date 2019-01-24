@@ -1,0 +1,82 @@
+---
+layout: default
+title: portfolio
+permalink: /portfolio/
+---
+
+<div class="portpostpage">
+    
+    {% include nav-top.html %}
+    
+    <section class="start">
+        
+        <h1 class="title">{{ page.title }}</h1>
+        
+        <div class="w3-content w3-display-container" style="max-width:560px">
+            <img class="mySlides" src="{{ site.url }}{{ page.image1 }}">
+            <img class="mySlides" src="{{ site.url }}{{ page.image2 }}">
+            <img class="mySlides" src="{{ site.url }}{{ page.image3 }}">
+            <div class="w3-center w3-display-bottommiddle" style="width:90%">
+                <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
+                <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(1)"></span>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(2)"></span>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(3)"></span>
+            </div>
+        </div>
+        
+        <div class="details">
+            <div class="half">
+                <p><b>Cliente:</b> {{ page.empresa }}</p>
+            </div>
+            <div class="half">
+                <p><b>Projeto:</b> {{ page.projeto }}</p>
+            </div>
+            <div class="half">
+                <p><b>Data:</b> {{ page.date | date: "%Y" }}</p>
+            </div>
+            <div class="half">
+                <p><a href="{{ page.linkcliente }}" target="_blank">{{ page.linkcliente }}</a></p>
+            </div>
+        </div>
+            
+        <hr>
+    </section>
+    
+    <div class="content">
+        
+        {{content}}
+        
+    </div>
+        
+    {% include footer.html %}
+
+</div>
+
+<script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    
+    function plusDivs(n) {
+        showDivs(slideIndex += n);
+    }
+    function currentDiv(n) {
+        showDivs(slideIndex = n);
+    }
+    
+    function showDivs(n) {
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("demo");
+        if (n > x.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = x.length}
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" w3-white", "");
+        }
+        x[slideIndex-1].style.display = "block";
+        dots[slideIndex-1].className += " w3-white";
+    }
+</script>

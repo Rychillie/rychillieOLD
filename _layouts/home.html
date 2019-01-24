@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="HomeCard">
+    <header class="nav-home">
+
+        <div class="pic">
+            <a href="{{ site.url }}/about" class="imageprofile">
+                <img src="{{ site.url }}/assets/images/profile.jpg"" class="imageprofile" alt="imageprofile">
+            </a>
+        </div>
+
+        <div class="acess">
+            <h1 class="titlehome">{{ site.name }}</h1>
+            
+            <ul class="list social">
+                <li class="item">
+                    <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="icon"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li class="item">
+                    <a href="https://youtube.com/{{ site.youtube }}" target="_blank" class="icon"><i class="fab fa-youtube"></i></a>
+                </li>
+                <li class="item">
+                    <a href="https://github.com/{{ site.github }}" target="_blank" class="icon"><i class="fab fa-github"></i></a>
+                </li>
+                <li class="item">
+                    <a href="mailto:{{ site.email }}" class="icon"><i class="fas fa-envelope"></i></a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    
+    <div class="nav nav-home">
+            
+        {% include nav-itens.html %}
+
+    </div>
+    
+    {% include footer.html %}
+
+</div>

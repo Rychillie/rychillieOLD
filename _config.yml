@@ -1,0 +1,57 @@
+# main text of home
+name: Rychillie
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/Rychillie.jpg
+
+url: https://rychillie.net
+# your url: http://USERNAME.github.io
+
+permalink: /blog/:title/
+
+# To enable google analytics, supply your token below
+analytics-google: 'UA-45575876-4'
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: Rychillie # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+facebook: rychillie
+twitter: rychillie
+instagram: rychillie
+youtube: rychillie
+github: rychillie
+email: contato@rychillie.net
+
+# if you don't need pagination, comment the *paginate* configs below
+paginate: 10
+paginate_path: "blog/page:num/"
+
+
+# if you don't need projects, comment the *projects* configs below
+projetos: false
+lojinha: false
+
+plugins:
+- github-pages
+- jekyll
+- rake
+- rouge
+- html-proofer
+- jemoji
+- jekyll-mentions
+- jekyll-seo-tag
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-last-modified-at
+- jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com

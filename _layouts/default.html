@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/main.css' | relative_url }}" />
+    
+    <meta property="fb:pages" content="601656389864487" />
+    <link rel="manifest" href="manifest.json">
+
+    <meta name=description content="{{ site.bio }}">
+    <meta name=author content="{{ site.name }}">
+
+
+    <meta name="theme-color" content="#2b2b2b">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#2b2b2b">
+    <meta name="msapplication-navbutton-color" content="#2b2b2b">
+    
+    <meta name="msapplication-TileImage" content="assets/images/favicon/favicon-128x128.png">
+    <meta name="msapplication-TileColor" content="#2b2b2b">
+    
+    <!-- Add to home screen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Rychillie">
+    <link rel="apple-touch-icon" href="assets/images/favicon/favicon-128x128.png">
+
+    {% seo %}
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
+
+    <!-- service worker -->
+    <script type="text/javascript">
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register("/sw.js");
+        }
+    </script>
+
+    {% include analytics-google.html %}
+</head>
+<body>
+    <div class="container">
+        
+        {{content}}
+        
+    </div>
+</body>
+</html>

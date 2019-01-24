@@ -1,0 +1,81 @@
+---
+layout: default
+permalink: /about/
+---
+
+<div class="aboutpage" id="about">
+
+    {% include nav-top.html %}
+
+    <section class="start">
+        <div class="details">
+            <div class="mid">
+                <img src="{{ site.url }}/assets/images/profile.jpg" class="imageprofile" alt="imageprofile">
+            </div>
+            <div class="top center">
+                <div class="profile">
+                    <p>Rychillie Umpierre de Oliveira</p>
+                    <p>Nascido em 03/10/1996</p>
+                    <p>Novo Hamburgo - RS(Brasil)</p>
+                </div>
+                <ul class="list social">
+                    <li class="item">
+                        <a href="https://twitter.com/{{ site.twitter }}" target="_blank" class="icon"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li class="item">
+                        <a href="https://youtube.com/{{ site.youtube }}" target="_blank" class="icon"><i class="fab fa-youtube"></i></a>
+                    </li>
+                    <li class="item">
+                        <a href="https://instagram.com/{{ site.instagram }}" target="_blank" class="icon"><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li class="item">
+                        <a href="https://facebook.com/{{ site.facebook }}" target="_blank" class="icon"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li class="item">
+                        <a href="https://github.com/{{ site.github }}" target="_blank" class="icon"><i class="fab fa-github"></i></a>
+                    </li>
+                    <li class="item">
+                        <a href="mailto:{{ site.email }}" target="_blank" class="icon"><i class="fas fa-envelope"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <article>
+        
+        {{ content }}
+        
+    </article>
+
+    <hr id="portfolio">
+
+    <section class="port-list">
+        
+        <h2 class="title">Portfólio:</h2>
+    
+        {% for post in site.posts %}
+            {% if post.category == 'portfolio' %}
+                {% if post.hidden != true %}
+                    {% include port-post.html %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    
+    </section>
+
+    <hr id="contact">
+
+    <section class="contact">
+        <h2 class="title">Contato:</h2>
+
+        <form action="https://formspree.io/rychillie@hotmail.com" method="POST">
+            <input type="text" name="name" placeholder="Nome">
+            <input type="email" name="_replyto" placeholder="E-Mail">
+            <textarea type="text" name="topic" placeholder="Sua Mensagem"></textarea>
+            <input type="submit" value="Send">
+        </form>
+    </section>
+
+    {% include footer.html %}
+</div>
