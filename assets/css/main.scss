@@ -409,31 +409,35 @@ p {
             }
         }
 
-        .half{
-            width: 50%;
-            float: left;
+        .inline{
+            display: inline-block;
+            
+            .half{
+                width: 50%;
+                float: left;
 
-            p{
-                margin: 5px;
-                width: 100%;
+                p{
+                    margin: 5px;
+                    width: 100%;
 
-                a{
-                    word-break: break-all;
-                    text-decoration: none;
-                    color: $black;
-                    opacity: 1;
+                    a{
+                        word-break: break-all;
+                        text-decoration: none;
+                        color: $black;
+                        opacity: 1;
 
-                    @media #{$dark-mode} { 
-                        color: $white;
+                        @media #{$dark-mode} { 
+                            color: $white;
+                        }
                     }
-                }
 
-                a:hover{
-                    color: $dark;
-                    opacity: .6;
+                    a:hover{
+                        color: $dark;
+                        opacity: .6;
 
-                    @media #{$dark-mode} {
-                        color: $inverted;
+                        @media #{$dark-mode} {
+                            color: $inverted;
+                        }
                     }
                 }
             }

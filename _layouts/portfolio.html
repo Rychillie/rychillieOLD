@@ -26,17 +26,21 @@ permalink: /portfolio/
         </div>
         
         <div class="details">
-            <div class="half">
-                <p><b>Cliente:</b> {{ page.empresa }}</p>
+            <div class="inline">
+                <div class="half">
+                    <p><b>Cliente:</b> {{ page.empresa }}</p>
+                </div>
+                <div class="half">
+                    <p><b>Projeto:</b> {{ page.projeto }}</p>
+                </div>
             </div>
-            <div class="half">
-                <p><b>Projeto:</b> {{ page.projeto }}</p>
-            </div>
-            <div class="half">
-                <p><b>Data:</b> {{ page.date | date: "%Y" }}</p>
-            </div>
-            <div class="half">
-                <p><a href="{{ page.linkcliente }}" target="_blank">{{ page.linkcliente }}</a></p>
+            <div class="inline">
+                <div class="half">
+                    <p><b>Data:</b> {{ page.date | date: "%Y" }}</p>
+                </div>
+                <div class="half">
+                    <p><a href="{{ page.linkcliente }}" target="_blank">{{ page.linkcliente }}</a></p>
+                </div>
             </div>
         </div>
             
