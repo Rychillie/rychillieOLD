@@ -267,10 +267,12 @@ ul.list {
             opacity: 1;
 
             @media #{$tablet} {
+                padding: 7px 12px;
                 font-size: 1.4rem;
             }
 
             @media #{$mobile} {
+                padding: 7px 10px;
                 font-size: 1.2rem;
             }
 
