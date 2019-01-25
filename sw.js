@@ -21,9 +21,9 @@ var CACHE_NAME = 'Rychillie-{{ site.time }}';
 self.addEventListener('install', function (event) {
     event.waitUntil(
         caches.open(CACHE_NAME)
-            .then(function (cache) {
-                return cache.addAll(urlsToCache);
-            })
+        .then(function (cache) {
+            return cache.addAll(urlsToCache);
+        })
     );
 });
 
