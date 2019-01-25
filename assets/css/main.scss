@@ -13,7 +13,7 @@ $mobile: "screen and (max-width: 400px)";
 $dark-mode: "(prefers-color-scheme: dark)";
 
 body, html {
-    min-width: 360px;
+    min-width: 360px!important;
     font-family: $montserrat;
     margin: 0;
     text-decoration: none;
@@ -416,6 +416,7 @@ p {
                 width: 100%;
 
                 a{
+                    word-break: break-all;
                     text-decoration: none;
                     color: $black;
                     opacity: 1;

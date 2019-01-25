@@ -1,5 +1,5 @@
 body, html {
-  min-width: 360px;
+  min-width: 360px !important;
   font-family: "Montserrat", sans-serif;
   margin: 0;
   text-decoration: none;
@@ -445,6 +445,7 @@ p {
 }
 
 .start .details .half p a {
+  word-break: break-all;
   text-decoration: none;
   color: #000;
   opacity: 1;
