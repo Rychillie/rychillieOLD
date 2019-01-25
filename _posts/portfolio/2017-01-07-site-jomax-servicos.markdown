@@ -1,7 +1,7 @@
 ---
 title: Site - Jomax Serviços
 layout: portfolio
-date: 2018-01-01 22:00
+date: 2017-01-07 22:00
 empresa: Jomax Serviços
 projeto: Website - Landing Page
 linkcliente: http://jomaxservicos.com.br
@@ -18,8 +18,8 @@ tag:
 - portfolio
 author: rychillie
 category: portfolio
-description: Custo Beneficio Absurdo!
-permalink: "/portfolio/jomax-servicos"
+description: Lading Page da Jomax Serviços
+permalink: "/portfolio/site-jomax-servicos"
 ---
 
 Um cliente sério, que procurava uma forma simples e direta de apresentar sua empresa, queria que seus clientes encontrassem seus dados de forma facil como seus e-mail's para contato e telefones.
