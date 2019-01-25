@@ -436,17 +436,21 @@ p {
   }
 }
 
-.start .details .half {
+.start .details .inline {
+  display: inline-block;
+}
+
+.start .details .inline .half {
   width: 50%;
   float: left;
 }
 
-.start .details .half p {
+.start .details .inline .half p {
   margin: 5px;
   width: 100%;
 }
 
-.start .details .half p a {
+.start .details .inline .half p a {
   word-break: break-all;
   text-decoration: none;
   color: #000;
@@ -454,18 +458,18 @@ p {
 }
 
 @media (prefers-color-scheme: dark) {
-  .start .details .half p a {
+  .start .details .inline .half p a {
     color: #fff;
   }
 }
 
-.start .details .half p a:hover {
+.start .details .inline .half p a:hover {
   color: #2b2b2b;
   opacity: .6;
 }
 
 @media (prefers-color-scheme: dark) {
-  .start .details .half p a:hover {
+  .start .details .inline .half p a:hover {
     color: #d4d4d4;
   }
 }
