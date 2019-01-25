@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/main.css' | relative_url }}" />
     
     <meta property="fb:pages" content="601656389864487" />
-    <link rel="manifest" href="https://rychillie.net/manifest.json">
+    <link rel="manifest" href="manifest.json">
 
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
@@ -19,14 +19,14 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="#2b2b2b">
     <meta name="msapplication-navbutton-color" content="#2b2b2b">
     
-    <meta name="msapplication-TileImage" content="https://rychillie.net/assets/images/favicon/favicon-128x128.png">
+    <meta name="msapplication-TileImage" content="assets/images/favicon/favicon-128x128.png">
     <meta name="msapplication-TileColor" content="#2b2b2b">
     
     <!-- Add to home screen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Rychillie">
-    <link rel="apple-touch-icon" href="https://rychillie.net/assets/images/favicon/favicon-128x128.png">
+    <link rel="apple-touch-icon" href="assets/images/favicon/favicon-128x128.png">
 
     {% seo %}
 
@@ -36,7 +36,7 @@
     <!-- service worker -->
     <script type="text/javascript">
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register("https://rychillie.net/sw.js");
+            navigator.serviceWorker.register("/sw.js");
         }
     </script>
 
