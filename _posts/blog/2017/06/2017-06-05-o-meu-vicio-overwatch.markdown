@@ -16,16 +16,6 @@ author: rychillie
 category: blog
 description: que jogo foda
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Sempre fiquei interessado pelo primeiro jogo de tiro em primeira pessoa produzido pela Blizzard, esperei muito para poder compra-lo deixei passar diversas promoções e neste final de semana adquiri através de uma promoção que está rolando. Foi quase uma obrigação pois não lembro quando foi a ultima vez que vi uma promoção do game que valesse a pena compra-lo.
 

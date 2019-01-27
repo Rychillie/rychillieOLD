@@ -16,16 +16,6 @@ author: rychillie
 category: blog
 description: Bora aprender a fazer jogos!
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 O Contrusct 2 sem dúvida é uma ótima plataforma com ótimas possibilidades para quem não conhece programação ou não tem muito conhecimento na área e gostaria de fazer um jogo. E com isto em mente venho trazer este tutorial de Desenvolvimento de Games no Construct 2, no qual vou lhes ensinar a desenvolver um jogo em poucos passos no qual você poderá fazer inclusive na versão gratuita.
 

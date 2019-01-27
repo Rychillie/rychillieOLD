@@ -15,16 +15,6 @@ author: rychillie
 category: blog
 description: Um aplicativo essencial para o seu dia-a-dia
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Por muito tempo tive um problema que era o de salvar links com alguma notícia ou artigo que gostaria de ler com calma ou compartilhar com alguém, já salvei em favoritos, bloco de notas, enviei por email e já encaminhei para amigo para poder encontrar o link com facilidade.
 

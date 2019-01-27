@@ -15,7 +15,6 @@ author: rychillie
 category: blog
 description: o melhor teclado para quem busca produtividade
 ---
-
 <img src="https://rychillie.github.io/assets/images/review/logitech/k380/k380-multi-device-bluetooth-keyboard-01.jpg">
 
 Depois é um ano usando ele acabei esquecendo de falar dele, estou tão acostumado com ele que ficou difícil de achar pontos fracos dele que é para mim o melhor teclado que já pude usar, comprei o dispositivo para suprir minha necessidade de um teclado sem fio para usar no desenvolvimento Web, que no caso veio a calhar com sua funcionalidade de 3 conexões sem fio, via bluetooth.

@@ -16,16 +16,6 @@ author: rychillie
 category: blog
 description: as vezes um simples app pode nos ajudar muito
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Eu sou uma pessoa que fica sempre muito antenada nas novidades de tecnologia e games, além de gostar muito de curiosidades e críticas da telona. Sentia uma falta na hora de acompanhar meus blogs favoritos, porque sempre deixava passar alguma notícia ou curiosidade que mais para frente vinha a encontrar e já não era mais assunto.
 

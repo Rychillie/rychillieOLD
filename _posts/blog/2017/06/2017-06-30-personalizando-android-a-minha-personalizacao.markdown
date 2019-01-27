@@ -16,18 +16,6 @@ author: rychillie
 category: blog
 description: Que tal customizar seu dispositivo Android
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJVLgTLCVxI" frameborder="0" allowfullscreen></iframe>
 
 <p>Uma das coisas mais bacanas que o sistema operacional Android pode nos proporcionar é a possibilidade de customiza-lo da nossa forma e gosto. <a href="https://youtu.be/QJVLgTLCVxI" target="_blank">Em um video que gravei para o meu canal</a>, eu mostrei aquela que é a minha customização, a que eu uso no meu dia-a-dia.</p>
 

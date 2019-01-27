@@ -19,16 +19,6 @@ author: rychillie
 category: blog
 description: Um aplicativo para ganhar dinheiro no smamrtphone
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 <p>Eu tenho certeza que você já pensou em ganhar dinheiro com através do seu smartphone. No video a seguir trago o Aplicativo <a href="http://whaff.com/">Whaff</a> disponível para <a href="https://goo.gl/8uoGC2">Android</a> e <a href="https://goo.gl/fUxKrp">IOS</a>, que da para você a possibilidade de ganhar dinheiro testando aplicativos e jogos.</p>
 

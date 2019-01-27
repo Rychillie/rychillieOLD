@@ -14,16 +14,6 @@ author: rychillie
 category: blog
 description: após escrever isto fui direto para o Pinterest...
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 As vezes nas madrugadas passo muito tempo a toa viajando na maionese e por isso peguei a mania de ficar no Twitter procurando por conteúdos como por exemplo ao digitar #PixelArt encontrava trabalhos de diversas pessoas pelo mundo, mas eu não achava o suficiente, e as vezes repetia muito, então vasculhando um pouco mais lembrei que existia o Pinterest, uma Rede Social de armazenamento e compartilhamento de imagens, então comecei a acessar a rede ao menos uma vez por dia. Em menos de uma semana já entendia como funcionava a rede e como fazer dela útil no meu dia-a-dia, transformei ela em um "Repositório de Inspiração", onde eu poderia procurar coisas de meu interesse e salvar para que servissem como inspiração, um modelo e até uma Motivação.
 

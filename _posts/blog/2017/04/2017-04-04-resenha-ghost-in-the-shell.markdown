@@ -20,16 +20,6 @@ author: rychillie
 category: blog
 description: um futuro que eu gostaria de viver
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Sempre fiquei com um pé atrás quando o assunto era adaptações de animes para o cinema, um exemplo claro disso é o filme Dragonball Evolution, no qual eu estava hypado para assisti-lo e acabei me decepcionando. Ao ver os reviews desse filme fiquei impressionado, disse para mim mesmo que iria assisti-lo, afinal ainda não conhecia o Anime nem cheguei a ler o Mangá, então fui mesmo para conhecer a série.
 

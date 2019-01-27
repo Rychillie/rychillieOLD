@@ -15,16 +15,6 @@ author: rychillie
 category: blog
 description: Que tal explorar as funcionalidades do seu Android?
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Poucos sabem, mas é possível instalar aplicativos de forma manual no Android, utilizando um arquivo de instalação funciona de forma parecida a instalação de um programa ou jogo nos computadores. Essa função é liberada para poder testar aplicativos, desde versões betas até aplicativos não lançados, além de também servir de meio para instalação de aplicativos de formas ilícitas.
 

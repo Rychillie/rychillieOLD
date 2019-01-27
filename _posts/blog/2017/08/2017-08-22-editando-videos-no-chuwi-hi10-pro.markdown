@@ -26,16 +26,6 @@ author: rychillie
 category: blog
 description: Não é o bixo mais ta valendo
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFJL9thhUw0" frameborder="0" allowfullscreen></iframe>
 

@@ -16,16 +16,6 @@ author: rychillie
 category: blog
 description: uma reflexão sobre a pirataria seguindo minha opinião
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anuncio Blog Rychillie -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7837358846130941"
-     data-ad-slot="9265933715"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Não podemos negar que a pirataria é prejudicial para o mercado como um todo, mas devemos aceitar que surgiu simplesmente por causa de um outro problema que nos afeta, a falta de acesso.
 
