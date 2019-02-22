@@ -4,7 +4,7 @@
   "theme_color": "#1c202f",
   "background_color": "#2b2b2b",
   "display": "standalone",
-  "Scope": "/",
+  "Scope": "https://rychillie.net/manifest.json",
   "start_url": "https://rychillie.net/",
   "lang": "pt-BR",
   "icons": [
