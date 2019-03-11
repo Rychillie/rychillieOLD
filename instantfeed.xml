@@ -37,7 +37,7 @@ Please include your site in https://github.com/lordamit/jekyll-instant-article-f
         <content:encoded>
             <![CDATA[
                 <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
+                <html lang="pt-br" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
                 <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
@@ -71,8 +71,9 @@ Please include your site in https://github.com/lordamit/jekyll-instant-article-f
                             {% if post.credit %}
                               {{ post.credit }}.<br />
                             {% endif %}
-                            Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
+                            Escrito por Rychillie.
+                            </aside>
+                        <small>Copyright - Rychillie</small>
                   </footer>
                 </article>
               </body>
