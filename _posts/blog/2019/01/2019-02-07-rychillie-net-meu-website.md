@@ -2,7 +2,7 @@
 title: Rychillie.net meu website
 layout: post
 date: '2019-02-07 20:00:00'
-image: "/assets/images/sorteiorgb.jpg"
+image: "/assets/images/blog/meuwebsite.jpg"
 tag:
 - meu
 - website
