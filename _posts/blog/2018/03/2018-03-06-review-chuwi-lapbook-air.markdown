@@ -33,7 +33,7 @@ description: O melhor ultrabook custo beneficio
 
 <p>O Chuwi Lapbook Air é um notebook da Chuwi com foco em trabalho, para aqueles que precisam de um bom desempenho no seu dia-a-dia e portabilidade, diferente do Chuwi Hi10 Pro que eu já trouxe aqui no canal ele não possui tela touch e não possui dual boot(dois sistemas operacionais), ou seja ele foge um pouco da ideia de um notebook/tablete para família e entra na área profissional.</p>
 
-# Construção:
+## Construção:
 <p>Sua construção é feita em alumínio muito resistente e bem trabalhado, um notebook leve e bem fino sendo possível levanta-lo com apenas uma mão, sem dificuldades, sendo assim um dispositivo recomendável para quem necessita colocá-lo na mochila e utiliza-lo no dia-a-dia.</p>
 
 <p>Com uma tela FullHD tem um contraste muito bonito, com cores bem vivas fazem dela ótima para se assistir um vídeo ou filme, mas por outro lado algumas pessoas podem não gostar que ela reflete bastante dependendo da condição de luz do sol sobre ela de resto a tela é muito boa.</p>
@@ -42,17 +42,17 @@ description: O melhor ultrabook custo beneficio
 
 <p>O Notebook vem com 128gb de armazenamento do tipo eMMC tendo a capacidade de se expandir através de um slot do tipo M2 SSD, ou até colocando um cartão Micro-SD disponível na lateral.</p>
 
-# Desempenho:
+## Desempenho:
 <p>Em termo de desempenho o notebook possui um processador Intel Celeron N3450 da geração Apollo Lake, este que é um processador para baixo consumo de bateria pode dar a impressão de fraco por causa do nome “Celeron” mas junto dos seus 8GB de Ram posso garantir que ele vai te surpreender.</p>
 
 <p>Com esta configuração você consegue editar planilhas acessar internet, utilizar pacote office tranquilamente, mas se você necessitar em algum momento realizar uma tarefa um pouco mais difícil como por exemplo editar um vídeo em algum editor de vídeo como o Vegas ou trabalhar uma foto no Photoshop, você vai conseguir trabalhar e exportar sem dificuldades, em meus testes eu consegui editar um vídeo de 10min em 1080p sem nenhum tipo de lag tanto na edição quanto no preview e ao renderizar eu consegui obter um tempo de 30 a 45min (dependendo se você esta ligado no carregador). Isso renderizando a 1080p que para quem trabalha na área sabe que isso são números maravilhosos.</p>
 
 <p>Isso ocorre pois a Microsoft esta investindo no seu sistema operacional, deixando ele mais fluido em computadores de baixo desempenho. Uma recomendação fica até para os aplicativos disponíveis na loja da Microsoft que trazem uma melhor fluidez no sistema, até por que são feitos sob medida para rodar em qualquer configuração.</p>
 
-# Bateria:
+## Bateria:
 <p>A bateria eu diria que é um dos melhores pontos deste notebook, durando tranquilamente 5 horas de uso moderado conectado no wifi e utilizando o brilho no maximo, você certamente vai conseguir trabalhar tranquilo com seu notebook fora da tomada por uma tarde. Para recarregar eu diria que também temos uma tempo aceitável, em 2 horas ele da uma carga completa na bartéria enquanto se utiliza o notebook, deixando-o em standby ou desligado você consegue carrega-lo em 45 minutos.</p>
 
-# Para Jogos:
+## Para Jogos:
 <p>Se você pretende jogar neste computador já digo, como no Chuwi Hi10 Pro ele não é um notebook feito para isso, mas não é impossível, para vocês terem uma noção consegui jogar três partidas de League of Legends direto na bateria na resolução 1080p e gráficos no baixo tranquilo com seu FPS beirando no 60. Ou seja se você é um gamer casual pode ser que esse notebook pode vir a calhar.</p>
 
 <p>Já jogos mais pesados tive dificuldade de rodas, um exemplo é o Counter Strike Global Ofensive que tive dificuldades em configurar de uma forma que fosse o deixasse “jogável”...</p>
