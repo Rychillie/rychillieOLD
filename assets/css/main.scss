@@ -633,7 +633,7 @@ section.contact{
             }
         }
 
-        input[type=sumit]:\:-moz-placeholder {
+        input[type=sumit]:-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
