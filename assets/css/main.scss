@@ -11,6 +11,7 @@ $tablet: "screen and (min-width: 400px) and (max-width: 1050px)";
 $mobile: "screen and (max-width: 400px)";
 
 $dark-mode: "(prefers-color-scheme: dark)";
+$light-mode: "(prefers-color-scheme: dark)";
 
 body, html {
     min-width: 360px!important;
@@ -20,6 +21,7 @@ body, html {
 }
 
 html {
+    overflow-y: scroll;
     scroll-behavior: smooth;
 }
 
@@ -49,17 +51,17 @@ footer{
     a.link{
         color: $gray;
         opacity: 1;
+        transition: all .2s linear;
+        -moz-transition: all .2s linear;
+        -webkit-transition: all .2s linear;
+        -o-transition: all .2s linear;
 
         i.fa-rss:hover {
-            color: $gray;
-            text-shadow:0px 0px 4px  rgba(0, 0, 0, 0.45),0px 0px 12px  rgba(0,0,0,0.40);
-            opacity:.8;
+            opacity:.6;
         }
     
         i.fas:hover {
-            color: $gray;
-            text-shadow:0px 0px 4px  rgba(0, 0, 0, 0.45),0px 0px 12px  rgba(0,0,0,0.40);
-            opacity:.8;
+            opacity:.6;
         }
     }
 }
@@ -114,15 +116,17 @@ header.nav-home{
                 transition: all .2s;
                 box-shadow: 0;
                 opacity: 1;
+                transition: all .2s linear;
+                -moz-transition: all .2s linear;
+                -webkit-transition: all .2s linear;
+                -o-transition: all .2s linear;
             }
             
             img.imageprofile:hover {
-                box-shadow:0 0px 4px 0 rgba(0,0,0,0.18),0 0px 12px 0 rgba(0,0,0,0.15);
                 opacity:.8;
             }
         }
     }
-
     
     .acess {
         width: 60%;
@@ -174,6 +178,10 @@ nav.nav-top{
             text-shadow: none;
             opacity: 1;
             position: relative;
+            transition: all .2s linear;
+            -moz-transition: all .2s linear;
+            -webkit-transition: all .2s linear;
+            -o-transition: all .2s linear;
 
             @media #{$tablet} {
                 font-size: 17px;
@@ -187,30 +195,9 @@ nav.nav-top{
                 color: $inverted;
             }
         }
-
-        h1:before {
-            content: "";
-            position: absolute;
-            width: 100%;
-            height: 1px;
-            bottom: 0;
-            left: 0;
-            background-color: $black;
-            visibility: hidden;
-            -webkit-transform: scaleX(0);
-            transform: scaleX(0);
-            -webkit-transition: all 0.3s ease-in-out 0s;
-            transition: all 0.3s ease-in-out 0s;
-
-            @media #{$dark-mode} {
-                background-color: $inverted;
-            }
-        }
         
-        h1:hover:before {
-            visibility: visible;
-            -webkit-transform: scaleX(1);
-            transform: scaleX(1);
+        h1:hover {
+            opacity: .6;
         }
     }
 
@@ -265,6 +252,10 @@ ul.list {
             transition: all .2s;
             text-shadow: none;
             opacity: 1;
+            transition: all .2s linear;
+            -moz-transition: all .2s linear;
+            -webkit-transition: all .2s linear;
+            -o-transition: all .2s linear;
 
             @media #{$tablet} {
                 padding: 7px 12px;
@@ -280,30 +271,9 @@ ul.list {
                 color: $inverted;
             }
         }
-
-        a.link:before {
-            content: "";
-            position: absolute;
-            width: 100%;
-            height: 1px;
-            bottom: 0;
-            left: 0;
-            background-color: $black;
-            visibility: hidden;
-            -webkit-transform: scaleX(0);
-            transform: scaleX(0);
-            -webkit-transition: all 0.3s ease-in-out 0s;
-            transition: all 0.3s ease-in-out 0s;
-
-            @media #{$dark-mode} {
-                background-color: $inverted;
-            }
-        }
         
-        a.link:hover:before {
-            visibility: visible;
-            -webkit-transform: scaleX(1);
-            transform: scaleX(1);
+        a.link:hover {
+            opacity: .6;
         }
     }
 }
@@ -338,15 +308,17 @@ a.icon {
     text-shadow: none;
     opacity: 1;
     position: relative;
+    transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
 
     i.fab:hover {
-        text-shadow: 0px 0px 4px  rgba(0, 0, 0, 0.45),0px 0px 12px  rgba(0,0,0,0.40);
-        opacity:.8;
+        opacity:.6;
     }
 
     i.fas:hover {
-        text-shadow: 0px 0px 4px  rgba(0, 0, 0, 0.45),0px 0px 12px  rgba(0,0,0,0.40);
-        opacity: .8;
+        opacity: .6;
     }
 
     @media #{$dark-mode} { 
@@ -426,6 +398,10 @@ p {
                         text-decoration: none;
                         color: $black;
                         opacity: 1;
+                        transition: all .2s linear;
+                        -moz-transition: all .2s linear;
+                        -webkit-transition: all .2s linear;
+                        -o-transition: all .2s linear;
 
                         @media #{$dark-mode} { 
                             color: $white;
@@ -433,7 +409,7 @@ p {
                     }
 
                     a:hover{
-                        color: $dark;
+                        color: $black;
                         opacity: .6;
 
                         @media #{$dark-mode} {
@@ -504,24 +480,15 @@ section.post-list{
                 width: 70%;
                 text-align: left;
                 font-weight: 500;
+                opacity: 1;
+                transition: all .2s linear;
+                -moz-transition: all .2s linear;
+                -webkit-transition: all .2s linear;
+                -o-transition: all .2s linear;
             }
 
-            h3.title:after {
-                content: '';
-                position: absolute;
-                bottom: 0;
-                left: 0;
-                width: 0%;
-                border-bottom: 2px solid $black;
-                transition: 0.4s;
-
-                @media #{$dark-mode} { 
-                    border-bottom: 2px solid $inverted;
-                }
-            }
-
-            h3.title:hover:after {
-                width: 80%;
+            h3.title:hover {
+                opacity: .6;
             }
         
             .date{
@@ -548,6 +515,10 @@ section.post-list{
             color: $black;
             opacity: 1;
             text-decoration: none;
+            transition: all .2s linear;
+            -moz-transition: all .2s linear;
+            -webkit-transition: all .2s linear;
+            -o-transition: all .2s linear;
 
             @media #{$dark-mode} { 
                 color: $inverted;
@@ -555,7 +526,8 @@ section.post-list{
         }
         
         a:hover {
-            opacity: .8;
+            color: $black;
+            opacity: .6;
         }
 
         @media #{$dark-mode} { 
@@ -595,6 +567,10 @@ section.port-list{
                 width: 100%;
                 text-align: center;
                 font-weight: 500;
+                transition: all .2s linear;
+                -moz-transition: all .2s linear;
+                -webkit-transition: all .2s linear;
+                -o-transition: all .2s linear;
             }
 
             h3.Trabalho{
@@ -606,30 +582,8 @@ section.port-list{
                 font-weight: 550;
             }
 
-            h3.title:after {
-                content: "";
-                position: absolute;
-                width: 30%;
-                height: 1px;
-                bottom: 0;
-                left: 35%;
-                right: 35%;
-                background-color: $black;
-                visibility: hidden;
-                -webkit-transform: scaleX(0);
-                transform: scaleX(0);
-                -webkit-transition: all 0.3s ease-in-out 0s;
-                transition: all 0.3s ease-in-out 0s;
-
-                @media #{$dark-mode} {
-                    background-color: $inverted;
-                }
-            }
-
-            h3.title:hover:after {
-                visibility: visible;
-                -webkit-transform: scaleX(1);
-                transform: scaleX(1);
+            h3.title:hover{
+                opacity: .6;
             }
         }
     }
@@ -668,10 +622,21 @@ section.contact{
             width: 30%;
             margin: 5px 35%;
             opacity: 1;
+            border-radius: 0px;
+            transition: all .2s linear;
+            -moz-transition: all .2s linear;
+            -webkit-transition: all .2s linear;
+            -o-transition: all .2s linear;
         }
 
         input[type=submit]:hover{
+            transition: all .2s linear;
+            -moz-transition: all .2s linear;
+            -webkit-transition: all .2s linear;
+            -o-transition: all .2s linear;
             opacity: .8;
+            border-radius: 10px;
+            transition: transform 2s;
         }
 
         textarea{
