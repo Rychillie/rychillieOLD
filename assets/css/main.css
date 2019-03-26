@@ -634,15 +634,15 @@ section.contact form {
 
 section.contact form input {
   opacity: 1;
+  color: #aaa;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   width: 100%;
   margin: 5px 0px;
   background-color: #2b2b2b;
   border: none;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid #d4d4d4;
   resize: none;
-  color: #aaa;
 }
 
 @media (prefers-color-scheme: light) {
@@ -652,83 +652,19 @@ section.contact form input {
   }
 }
 
-section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input::-moz-placeholder, section.contact form textarea::-moz-placeholder, section.contact form input:-ms-input-placeholder, section.contact form textarea:-ms-input-placeholder, section.contact form input:-moz-placeholder, section.contact form textarea:-moz-placeholder, section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input::-moz-placeholder, section.contact form textarea::-moz-placeholder, section.contact form input:-ms-input-placeholder, section.contact form textarea:-ms-input-placeholder, section.contact form input:-moz-placeholder, section.contact form textarea:-moz-placeholder, section.contact form input::placeholder, section.contact form textarea::placeholder, section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
   color: #aaa;
 }
 
 @media (prefers-color-scheme: light) {
-  section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+  section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input::-moz-placeholder, section.contact form textarea::-moz-placeholder, section.contact form input:-ms-input-placeholder, section.contact form textarea:-ms-input-placeholder, section.contact form input:-moz-placeholder, section.contact form textarea:-moz-placeholder, section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
     color: #aaa;
   }
-}
-
-section.contact form input::-moz-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-@media (prefers-color-scheme: light) {
-  section.contact form input::-moz-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-}
-
-section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-@media (prefers-color-scheme: light) {
-  section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-}
-
-section.contact form input:-moz-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-@media (prefers-color-scheme: light) {
-  section.contact form input:-moz-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-}
-
-section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-section.contact form input::-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-section.contact form input::placeholder, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-@media (prefers-color-scheme: light) {
-  section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-  section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-  section.contact form input::-ms-input-placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-  section.contact form input::placeholder, section.contact form textarea:placeholder-shown {
-    color: #aaa;
-  }
-}
-
-section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
-  color: #aaa;
-}
-
-@media (prefers-color-scheme: light) {
-  section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
+  section.contact form input::-webkit-input-placeholder, section.contact form textarea::-webkit-input-placeholder, section.contact form input::-moz-placeholder, section.contact form textarea::-moz-placeholder, section.contact form input:-ms-input-placeholder, section.contact form textarea:-ms-input-placeholder, section.contact form input:-moz-placeholder, section.contact form textarea:-moz-placeholder, section.contact form input::placeholder, section.contact form textarea::placeholder, section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
     color: #aaa;
   }
 }
@@ -737,9 +673,6 @@ section.contact form input[type=submit] {
   font-family: "Montserrat", sans-serif;
   background-color: #aaa;
   border: none;
-  -webkit-input-placeholder: #aaa;
-  -moz-placeholder: #aaa;
-  -moz-placeholder: #aaa;
   color: #2b2b2b;
   padding: 18px;
   text-decoration: none;
