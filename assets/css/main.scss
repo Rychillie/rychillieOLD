@@ -612,28 +612,28 @@ section.contact{
             } 
         }
 
-        input[type=sumit]::-webkit-input-placeholder {
+        input[type=submit]::-webkit-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=sumit]::-moz-placeholder {
+        input[type=submit]::-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=sumit]:-ms-input-placeholder {
+        input[type=submit]:-ms-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=sumit]:-moz-placeholder {
+        input[type=submit]:-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
