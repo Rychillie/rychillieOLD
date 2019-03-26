@@ -615,6 +615,9 @@ section.contact{
         input[type=submit]{
             background-color: $gray;
             border: none;
+            -webkit-input-placeholder: $dark;
+            -moz-placeholder: $dark;
+            -moz-placeholder: $dark;
             color: $dark;
             padding: 18px;
             text-decoration: none;
@@ -629,6 +632,9 @@ section.contact{
             -o-transition: all .2s linear;
             @media #{$light-mode} {
                 color: $white;
+                -webkit-input-placeholder: $white;
+                -moz-placeholder: $white;
+                -moz-placeholder: $white;
                 background-color: $gray;
             }
         }
