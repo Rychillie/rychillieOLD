@@ -649,9 +649,93 @@ section.contact form input {
   }
 }
 
+section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
+section.contact form input::-moz-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input::-moz-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
+section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
+section.contact form input:-moz-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input:-moz-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
+section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+section.contact form input::-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+section.contact form input::placeholder, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input::-webkit-input-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+  section.contact form input:-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+  section.contact form input::-ms-input-placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+  section.contact form input::placeholder, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
+section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
+  color: #aaa;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input:placeholder-shown, section.contact form textarea:placeholder-shown {
+    color: #aaa;
+  }
+}
+
 section.contact form input[type=submit] {
   background-color: #aaa;
   border: none;
+  -webkit-input-placeholder: #2b2b2b;
+  -moz-placeholder: #2b2b2b;
+  -moz-placeholder: #2b2b2b;
   color: #2b2b2b;
   padding: 18px;
   text-decoration: none;
@@ -669,6 +753,9 @@ section.contact form input[type=submit] {
 @media (prefers-color-scheme: light) {
   section.contact form input[type=submit] {
     color: #fff;
+    -webkit-input-placeholder: #fff;
+    -moz-placeholder: #fff;
+    -moz-placeholder: #fff;
     background-color: #aaa;
   }
 }

@@ -612,38 +612,45 @@ section.contact{
             } 
         }
 
-        input::-webkit-input-placeholder {
-            color: $dark;
+        input::-webkit-input-placeholder,textarea:placeholder-shown {
+            color: $gray;
             @media #{$light-mode} {
-                color: $white;
+                color: $gray;
             }
         }
 
-        input::-moz-placeholder {
-            color: $dark;
+        input::-moz-placeholder,textarea:placeholder-shown {
+            color: $gray;
             @media #{$light-mode} {
-                color: $white;
+                color: $gray;
             }
         }
 
-        input:-ms-input-placeholder {
-            color: $dark;
+        input:-ms-input-placeholder,textarea:placeholder-shown {
+            color: $gray;
             @media #{$light-mode} {
-                color: $white;
+                color: $gray;
             }
         }
 
-        input:-moz-placeholder {
-            color: $dark;
+        input:-moz-placeholder,textarea:placeholder-shown {
+            color: $gray;
             @media #{$light-mode} {
-                color: $white;
+                color: $gray;
             }
         }
 
-        input::placeholder {
-            color: $dark;
+        input::placeholder,textarea:placeholder-shown {
+            color: $gray;
             @media #{$light-mode} {
-                color: $white;
+                color: $gray;
+            }
+        }
+
+        input:placeholder-shown,textarea:placeholder-shown {
+            color: $gray;
+            @media #{$light-mode} {
+                color: $gray;
             }
         }
 
