@@ -11,7 +11,7 @@ $tablet: "screen and (min-width: 400px) and (max-width: 1050px)";
 $mobile: "screen and (max-width: 400px)";
 
 $dark-mode: "(prefers-color-scheme: dark)";
-$light-mode: "(prefers-color-scheme: dark)";
+$light-mode: "(prefers-color-scheme: light)";
 
 body, html {
     min-width: 360px!important;
@@ -26,17 +26,17 @@ html {
 }
 
 body {
-    background: $white;
+    background: $dark;
     width: 100%;
     min-width: 360px!important;
-    color: $black;
+    color: $inverted;
     display: grid;
     grid-template-columns: 100%;
     justify-content: center;
 
-    @media #{$dark-mode} { 
-        color: $inverted; 
-        background: $dark;
+    @media #{$light-mode} { 
+        color: $black; 
+        background: $white;
     }
 }
 
@@ -78,9 +78,9 @@ hr{
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
-    border: .5px solid $dark;
+    border: .5px solid $gray;
 
-    @media #{$dark-mode} { 
+    @media #{$light-mode} { 
         border: .5px solid $inverted;
     }
 }
@@ -170,7 +170,7 @@ nav.nav-top{
         text-decoration: none;
 
         h1{
-            color: $black;
+            color: $inverted;
             font-size: 18px;
             padding: 4px 4px;
             text-decoration: none;
@@ -191,8 +191,8 @@ nav.nav-top{
                 font-size: 16px;
             }
 
-            @media #{$dark-mode} { 
-                color: $inverted;
+            @media #{$light-mode} { 
+                color: $dark;
             }
         }
         
@@ -243,7 +243,7 @@ ul.list {
 
         a.link {
             position: relative;
-            color: $black;
+            color: $inverted;
             text-decoration: none;
             font-size: 1.5rem;
             padding: 7px 15px;
@@ -267,8 +267,8 @@ ul.list {
                 font-size: 1.2rem;
             }
 
-            @media #{$dark-mode} { 
-                color: $inverted;
+            @media #{$light-mode} { 
+                color: $black;
             }
         }
         
@@ -302,7 +302,7 @@ ul.list.social {
 
 
 a.icon {
-    color: $black;
+    color: $inverted;
     display: inline-block;
     transition: all .2s;
     text-shadow: none;
@@ -321,20 +321,20 @@ a.icon {
         opacity: .6;
     }
 
-    @media #{$dark-mode} { 
-        color: $inverted;
+    @media #{$light-mode} { 
+        color: $black;
     }
 }
 
 p {
     line-height: 1.7;
-    color: $black;
+    color: $inverted;
     font-weight: 300;
     margin-bottom: 20px;
     letter-spacing: .4px;
 
-    @media #{$dark-mode} { 
-        color: $inverted;
+    @media #{$light-mode} { 
+        color: $black;
     }
 }
 
@@ -396,24 +396,24 @@ p {
                     a{
                         word-break: break-all;
                         text-decoration: none;
-                        color: $black;
+                        color: $white;
                         opacity: 1;
                         transition: all .2s linear;
                         -moz-transition: all .2s linear;
                         -webkit-transition: all .2s linear;
                         -o-transition: all .2s linear;
 
-                        @media #{$dark-mode} { 
-                            color: $white;
+                        @media #{$light-mode} { 
+                            color: $black;
                         }
                     }
 
                     a:hover{
-                        color: $black;
+                        color: $inverted;
                         opacity: .6;
 
-                        @media #{$dark-mode} {
-                            color: $inverted;
+                        @media #{$light-mode} {
+                            color: $black;
                         }
                     }
                 }
@@ -431,7 +431,7 @@ p {
 }
 
 .start>.date, .start>.post-tags {
-    color: $black;
+    color: $inverted;
     font-weight: 300;
     font-size: .9rem;
     text-transform: uppercase;
@@ -442,8 +442,8 @@ p {
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 
-    @media #{$dark-mode} { 
-        color: $inverted;
+    @media #{$light-mode} { 
+        color: $black;
     }
 }
 
@@ -455,7 +455,7 @@ img{
 
 section.post-list{
     width: 100%;
-    border-top: 1px solid $inverted;
+    border-top: 1px solid $gray;
     border-bottom: 1px solid $inverted;
 
     .item-post{
@@ -466,11 +466,11 @@ section.post-list{
         a.url{
             width: 100%;
             display: inline-block;
-            color: $black;
+            color: $inverted;
             text-decoration: none;
 
-            @media #{$dark-mode} { 
-                color: $inverted;
+            @media #{$light-mode} { 
+                color: $black;
             }
 
             h3.title{
@@ -496,7 +496,7 @@ section.post-list{
                 float: right;
                 width: 30%;
                 text-align: right;
-                color: $gray;
+                color: $inverted;
     
                 time{
                     font-weight: 300;
@@ -509,10 +509,10 @@ section.post-list{
         width: 95%;
         margin: 2rem auto;
         text-align: center;
-        color: $black;
+        color: $inverted;
 
         a {
-            color: $black;
+            color: $inverted;
             opacity: 1;
             text-decoration: none;
             transition: all .2s linear;
@@ -520,18 +520,18 @@ section.post-list{
             -webkit-transition: all .2s linear;
             -o-transition: all .2s linear;
 
-            @media #{$dark-mode} { 
-                color: $inverted;
+            @media #{$light-mode} { 
+                color: $black;
             }
         }
         
         a:hover {
-            color: $black;
+            color: $inverted;
             opacity: .6;
         }
 
-        @media #{$dark-mode} { 
-            color: $inverted;
+        @media #{$light-mode} { 
+            color: $black;
         }
     }
 }
@@ -553,11 +553,11 @@ section.port-list{
         a.url{
             width: 100%;
             display: inline-block;
-            color: $black;
+            color: $inverted;
             text-decoration: none;
 
-            @media #{$dark-mode} { 
-                color: $inverted;
+            @media #{$light-mode} { 
+                color: $black;
             }
 
             h3.title{
@@ -591,7 +591,7 @@ section.port-list{
 
 section.contact{
     width: 100%;
-    border-bottom: 1px solid $inverted;
+    border-bottom: 1px solid $gray;
 
     form{
         width: 95%;
@@ -601,21 +601,21 @@ section.contact{
             font-size: 18px;
             width: 100%;
             margin: 5px 0px;
-            background-color: $white;
+            background-color: $dark;
             border: none;
-            border-bottom: 1px solid $inverted;
+            border-bottom: 1px solid $gray;
             resize: none;
 
-            @media #{$dark-mode} {
-                color: $gray;
-                background-color: $dark;
+            @media #{$light-mode} {
+                color: $dark;
+                background-color: $white;
             } 
         }
 
         input[type=submit]{
             background-color: $gray;
             border: none;
-            color: $white;
+            color: $dark;
             padding: 18px;
             text-decoration: none;
             cursor: pointer;
@@ -627,6 +627,10 @@ section.contact{
             -moz-transition: all .2s linear;
             -webkit-transition: all .2s linear;
             -o-transition: all .2s linear;
+            @media #{$light-mode} {
+                color: $white;
+                background-color: $gray;
+            }
         }
 
         input[type=submit]:hover{
@@ -646,11 +650,11 @@ section.contact{
             border: 1px solid $inverted;
             width: 100%;
             resize: none;
-            background-color: $white;
+            background-color: $dark;
 
-            @media #{$dark-mode} {
-                color: $gray;
-                background-color: $dark;
+            @media #{$light-mode} {
+                color: $black;
+                background-color: $white;
             } 
         }
     }
@@ -659,12 +663,12 @@ section.contact{
 section.start{
     display: inline-block;
     width: 100%;
-    border-top: 1px solid $inverted;
+    border-top: 1px solid $gray;
 }
 
 section.comments{
     width: 100%;
-    border-bottom: 1px solid $inverted;
+    border-bottom: 1px solid $gray;
 }
 
 video, iframe {

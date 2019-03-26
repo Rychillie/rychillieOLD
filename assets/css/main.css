@@ -11,10 +11,10 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #2b2b2b;
   width: 100%;
   min-width: 360px !important;
-  color: #000;
+  color: #d4d4d4;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 100%;
@@ -24,10 +24,10 @@ body {
           justify-content: center;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   body {
-    color: #d4d4d4;
-    background: #2b2b2b;
+    color: #000;
+    background: #fff;
   }
 }
 
@@ -69,10 +69,10 @@ hr {
   margin-right: auto;
   border-style: inset;
   border-width: 1px;
-  border: 0.5px solid #2b2b2b;
+  border: 0.5px solid #aaa;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   hr {
     border: 0.5px solid #d4d4d4;
   }
@@ -172,7 +172,7 @@ nav.nav-top a.titlelink {
 }
 
 nav.nav-top a.titlelink h1 {
-  color: #000;
+  color: #d4d4d4;
   font-size: 18px;
   padding: 4px 4px;
   text-decoration: none;
@@ -199,9 +199,9 @@ nav.nav-top a.titlelink h1 {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   nav.nav-top a.titlelink h1 {
-    color: #d4d4d4;
+    color: #2b2b2b;
   }
 }
 
@@ -253,7 +253,7 @@ ul.list li.item {
 
 ul.list li.item a.link {
   position: relative;
-  color: #000;
+  color: #d4d4d4;
   text-decoration: none;
   font-size: 1.5rem;
   padding: 7px 15px;
@@ -283,9 +283,9 @@ ul.list li.item a.link {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   ul.list li.item a.link {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -311,7 +311,7 @@ ul.list.social li.item a.icon i.fab {
 }
 
 a.icon {
-  color: #000;
+  color: #d4d4d4;
   display: inline-block;
   -webkit-transition: all .2s;
   transition: all .2s;
@@ -332,23 +332,23 @@ a.icon i.fas:hover {
   opacity: .6;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   a.icon {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
 p {
   line-height: 1.7;
-  color: #000;
+  color: #d4d4d4;
   font-weight: 300;
   margin-bottom: 20px;
   letter-spacing: .4px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   p {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -421,7 +421,7 @@ p {
 .start .details .inline .half p a {
   word-break: break-all;
   text-decoration: none;
-  color: #000;
+  color: #fff;
   opacity: 1;
   transition: all .2s linear;
   -moz-transition: all .2s linear;
@@ -429,20 +429,20 @@ p {
   -o-transition: all .2s linear;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .start .details .inline .half p a {
-    color: #fff;
+    color: #000;
   }
 }
 
 .start .details .inline .half p a:hover {
-  color: #000;
+  color: #d4d4d4;
   opacity: .6;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .start .details .inline .half p a:hover {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -455,7 +455,7 @@ p {
 }
 
 .start > .date, .start > .post-tags {
-  color: #000;
+  color: #d4d4d4;
   font-weight: 300;
   font-size: .9rem;
   text-transform: uppercase;
@@ -467,9 +467,9 @@ p {
   text-rendering: optimizeLegibility;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .start > .date, .start > .post-tags {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -481,7 +481,7 @@ img {
 
 section.post-list {
   width: 100%;
-  border-top: 1px solid #d4d4d4;
+  border-top: 1px solid #aaa;
   border-bottom: 1px solid #d4d4d4;
 }
 
@@ -494,13 +494,13 @@ section.post-list .item-post {
 section.post-list .item-post a.url {
   width: 100%;
   display: inline-block;
-  color: #000;
+  color: #d4d4d4;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.post-list .item-post a.url {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -527,7 +527,7 @@ section.post-list .item-post a.url .date {
   float: right;
   width: 30%;
   text-align: right;
-  color: #aaa;
+  color: #d4d4d4;
 }
 
 section.post-list .item-post a.url .date time {
@@ -538,11 +538,11 @@ section.post-list .pagination {
   width: 95%;
   margin: 2rem auto;
   text-align: center;
-  color: #000;
+  color: #d4d4d4;
 }
 
 section.post-list .pagination a {
-  color: #000;
+  color: #d4d4d4;
   opacity: 1;
   text-decoration: none;
   transition: all .2s linear;
@@ -551,20 +551,20 @@ section.post-list .pagination a {
   -o-transition: all .2s linear;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.post-list .pagination a {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
 section.post-list .pagination a:hover {
-  color: #000;
+  color: #d4d4d4;
   opacity: .6;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.post-list .pagination {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -586,13 +586,13 @@ section.port-list .item-post {
 section.port-list .item-post a.url {
   width: 100%;
   display: inline-block;
-  color: #000;
+  color: #d4d4d4;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.port-list .item-post a.url {
-    color: #d4d4d4;
+    color: #000;
   }
 }
 
@@ -624,7 +624,7 @@ section.port-list .item-post a.url h3.title:hover {
 
 section.contact {
   width: 100%;
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 1px solid #aaa;
 }
 
 section.contact form {
@@ -636,23 +636,23 @@ section.contact form input {
   font-size: 18px;
   width: 100%;
   margin: 5px 0px;
-  background-color: #fff;
+  background-color: #2b2b2b;
   border: none;
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 1px solid #aaa;
   resize: none;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.contact form input {
-    color: #aaa;
-    background-color: #2b2b2b;
+    color: #2b2b2b;
+    background-color: #fff;
   }
 }
 
 section.contact form input[type=submit] {
   background-color: #aaa;
   border: none;
-  color: #fff;
+  color: #2b2b2b;
   padding: 18px;
   text-decoration: none;
   cursor: pointer;
@@ -664,6 +664,13 @@ section.contact form input[type=submit] {
   -moz-transition: all .2s linear;
   -webkit-transition: all .2s linear;
   -o-transition: all .2s linear;
+}
+
+@media (prefers-color-scheme: light) {
+  section.contact form input[type=submit] {
+    color: #fff;
+    background-color: #aaa;
+  }
 }
 
 section.contact form input[type=submit]:hover {
@@ -686,25 +693,25 @@ section.contact form textarea {
   border: 1px solid #d4d4d4;
   width: 100%;
   resize: none;
-  background-color: #fff;
+  background-color: #2b2b2b;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   section.contact form textarea {
-    color: #aaa;
-    background-color: #2b2b2b;
+    color: #000;
+    background-color: #fff;
   }
 }
 
 section.start {
   display: inline-block;
   width: 100%;
-  border-top: 1px solid #d4d4d4;
+  border-top: 1px solid #aaa;
 }
 
 section.comments {
   width: 100%;
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 1px solid #aaa;
 }
 
 video, iframe {
