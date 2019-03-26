@@ -612,28 +612,28 @@ section.contact{
             } 
         }
 
-        input[type=submit]::-webkit-input-placeholder {
+        ::-webkit-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=submit]::-moz-placeholder {
+        ::-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=submit]:-ms-input-placeholder {
+        :-ms-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
         }
 
-        input[type=submit]:-moz-placeholder {
+        :-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
