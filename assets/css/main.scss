@@ -619,13 +619,6 @@ section.contact{
             }
         }
 
-        input[type=sumit]::-webkit-input-placeholder {
-            color: $dark;
-            @media #{$light-mode} {
-                color: $white;
-            }
-        }
-
         input[type=sumit]::-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
@@ -633,7 +626,14 @@ section.contact{
             }
         }
 
-        input[type=sumit]::-moz-placeholder {
+        input[type=sumit]:-ms-input-placeholder {
+            color: $dark;
+            @media #{$light-mode} {
+                color: $white;
+            }
+        }
+
+        input[type=sumit]:\:-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
