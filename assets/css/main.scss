@@ -611,17 +611,29 @@ section.contact{
                 background-color: $white;
             } 
         }
-        input[type=sumit]::-webkit-input-placeholder{
+
+        input[type=sumit]::-webkit-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
-        }::-moz-placeholder {
+        }
+
+        input[type=sumit]::-webkit-input-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
             }
-        }::-moz-placeholder {
+        }
+
+        input[type=sumit]::-moz-placeholder {
+            color: $dark;
+            @media #{$light-mode} {
+                color: $white;
+            }
+        }
+
+        input[type=sumit]::-moz-placeholder {
             color: $dark;
             @media #{$light-mode} {
                 color: $white;
