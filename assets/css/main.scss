@@ -598,6 +598,7 @@ section.contact{
         margin: 20px 0px 60px 0px;
 
         input{
+            font-family: $montserrat;
             font-size: 18px;
             width: 100%;
             margin: 5px 0px;
@@ -655,6 +656,7 @@ section.contact{
         }
 
         input[type=submit]{
+            font-family: $montserrat;
             background-color: $gray;
             border: none;
             -webkit-input-placeholder: $dark;
@@ -692,6 +694,8 @@ section.contact{
         }
 
         textarea{
+            font-family: $montserrat;
+            color: $gray;
             margin: 5px 0px;
             font-size: 16px;
             height: 450px;
@@ -701,7 +705,7 @@ section.contact{
             background-color: $dark;
 
             @media #{$light-mode} {
-                color: $black;
+                color: $gray;
                 background-color: $white;
             } 
         }

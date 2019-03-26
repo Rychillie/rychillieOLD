@@ -633,6 +633,7 @@ section.contact form {
 }
 
 section.contact form input {
+  font-family: "Montserrat", sans-serif;
   font-size: 18px;
   width: 100%;
   margin: 5px 0px;
@@ -731,6 +732,7 @@ section.contact form input:placeholder-shown, section.contact form textarea:plac
 }
 
 section.contact form input[type=submit] {
+  font-family: "Montserrat", sans-serif;
   background-color: #aaa;
   border: none;
   -webkit-input-placeholder: #2b2b2b;
@@ -774,6 +776,8 @@ section.contact form input[type=submit]:hover {
 }
 
 section.contact form textarea {
+  font-family: "Montserrat", sans-serif;
+  color: #aaa;
   margin: 5px 0px;
   font-size: 16px;
   height: 450px;
@@ -785,7 +789,7 @@ section.contact form textarea {
 
 @media (prefers-color-scheme: light) {
   section.contact form textarea {
-    color: #000;
+    color: #aaa;
     background-color: #fff;
   }
 }
