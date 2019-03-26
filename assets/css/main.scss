@@ -611,6 +611,22 @@ section.contact{
                 background-color: $white;
             } 
         }
+        input[type=sumit]::-webkit-input-placeholder{
+            color: $dark;
+            @media #{$light-mode} {
+                color: $white;
+            }
+        }::-moz-placeholder {
+            color: $dark;
+            @media #{$light-mode} {
+                color: $white;
+            }
+        }::-moz-placeholder {
+            color: $dark;
+            @media #{$light-mode} {
+                color: $white;
+            }
+        }
 
         input[type=submit]{
             background-color: $gray;
