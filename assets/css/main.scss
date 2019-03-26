@@ -598,6 +598,7 @@ section.contact{
         margin: 20px 0px 60px 0px;
 
         input{
+            opacity: 1;
             font-family: $montserrat;
             font-size: 18px;
             width: 100%;
@@ -606,6 +607,7 @@ section.contact{
             border: none;
             border-bottom: 1px solid $gray;
             resize: none;
+            color: $gray;
 
             @media #{$light-mode} {
                 color: $dark;
@@ -659,9 +661,9 @@ section.contact{
             font-family: $montserrat;
             background-color: $gray;
             border: none;
-            -webkit-input-placeholder: $dark;
-            -moz-placeholder: $dark;
-            -moz-placeholder: $dark;
+            -webkit-input-placeholder: $gray;
+            -moz-placeholder: $gray;
+            -moz-placeholder: $gray;
             color: $dark;
             padding: 18px;
             text-decoration: none;
@@ -694,10 +696,11 @@ section.contact{
         }
 
         textarea{
+            opacity: 1;
             font-family: $montserrat;
             color: $gray;
             margin: 5px 0px;
-            font-size: 16px;
+            font-size: 18px;
             height: 450px;
             border: 1px solid $inverted;
             width: 100%;

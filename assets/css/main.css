@@ -633,6 +633,7 @@ section.contact form {
 }
 
 section.contact form input {
+  opacity: 1;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   width: 100%;
@@ -641,6 +642,7 @@ section.contact form input {
   border: none;
   border-bottom: 1px solid #aaa;
   resize: none;
+  color: #aaa;
 }
 
 @media (prefers-color-scheme: light) {
@@ -735,9 +737,9 @@ section.contact form input[type=submit] {
   font-family: "Montserrat", sans-serif;
   background-color: #aaa;
   border: none;
-  -webkit-input-placeholder: #2b2b2b;
-  -moz-placeholder: #2b2b2b;
-  -moz-placeholder: #2b2b2b;
+  -webkit-input-placeholder: #aaa;
+  -moz-placeholder: #aaa;
+  -moz-placeholder: #aaa;
   color: #2b2b2b;
   padding: 18px;
   text-decoration: none;
@@ -776,10 +778,11 @@ section.contact form input[type=submit]:hover {
 }
 
 section.contact form textarea {
+  opacity: 1;
   font-family: "Montserrat", sans-serif;
   color: #aaa;
   margin: 5px 0px;
-  font-size: 16px;
+  font-size: 18px;
   height: 450px;
   border: 1px solid #d4d4d4;
   width: 100%;
