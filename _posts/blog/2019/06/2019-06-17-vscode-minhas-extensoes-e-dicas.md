@@ -1,5 +1,5 @@
 ---
-title: VSCode: Minhas Extensões + Dicas
+title: VSCode Minhas Extensões + Dicas
 layout: post
 date: '2019-06-17 20:00:00'
 image: "/assets/images/blog/vscode-minhas-extesoes-mais-dicas.png"
