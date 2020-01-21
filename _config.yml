@@ -6,7 +6,7 @@ name: Rychillie
 external-image: false
 picture: assets/images/Rychillie.jpg
 
-url: https://rychillie.github.io
+url: https://rychillie.github.io/rychillieOLD
 # your url: http://USERNAME.github.io
 
 permalink: /blog/:title/
